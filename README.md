@@ -56,10 +56,10 @@ This project represents an important step in applying data analytics skills to a
 ## 📸 Dashboard Preview
 
 ### 1. Executive Summary
-![Executive Summary](Images/Dashboard_1.png)
+![Executive Summary](Egypt-Hotels-Market-Analysis/Images/Dashboard_1.png)
 
 ### 2. City & Pricing Analysis
-![City & Pricing](Images/Dashboard_.png)
+![City & Pricing](Egypt-Hotels-Market-Analysis/Images/Dashboard_.png)
 
 ### 3. Competitor Analysis
-![Competitor Analysis](Images/Dashboard_2.png)
+![Competitor Analysis](Egypt-Hotels-Market-Analysis/Images/Dashboard_2.png)
