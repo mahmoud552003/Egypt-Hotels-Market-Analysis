@@ -53,3 +53,13 @@ Special thanks to **Dr. Alshaimaa Hussien** for her guidance, support, and valua
 ## 🚀 Project Purpose
 
 This project represents an important step in applying data analytics skills to a real-world business case, transforming raw data into meaningful insights that support better decision-making.
+## 📸 Dashboard Preview
+
+### 1. Executive Summary
+![Executive Summary](Images/Dashboard_1.png)
+
+### 2. City & Pricing Analysis
+![City & Pricing](Images/Dashboard_.png)
+
+### 3. Competitor Analysis
+![Competitor Analysis](Images/Dashboard_2.png)
