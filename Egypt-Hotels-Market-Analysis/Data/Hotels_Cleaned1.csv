@@ -1,0 +1,1038 @@
+city,hotel_name,price,num_adults,num_children,num_nights,rating,reviews_count,location,distance_from_center,star_rating,property_type,room_type,free_cancellation,meal_plan,amenities,scraped_date
+Cairo,Regant pyramids hotel,715,2,0,1,10.0,1.0,"Giza, Cairo",11.3,4.0,Hotel,Double Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Cairo,Sky-lounge,3606,2,0,1,8.6,151.0,"Maadi, Cairo",10.2,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Cairo,Hilton Cairo Grand Nile,5377,2,0,1,8.0,12311.0,Cairo,1.4,5.0,Hotel,Twin Guest room with Nile View,Yes,Not Specified,"Hot tub/Jacuzzi, Spa",2026-05-09
+Cairo,Agor-Cairo Hotel Downtown,7908,2,0,1,10.0,7.0,Cairo,0.8,4.0,Hotel,Deluxe Double or Twin Room with City View,Yes,Breakfast included,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Cairo,gold cairo downtown,5272,2,0,1,8.6,151.0,Cairo,0.1,4.0,Hotel,Double Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Cairo,cairoooo houb,2900,2,0,1,8.6,151.0,Cairo,0.2,4.0,Hotel,Deluxe Twin Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Cairo,Ramses Hilton Hotel & Casino,5333,2,0,1,8.5,5243.0,Cairo,0.7,5.0,Hotel,King Room with City View,Yes,Not Specified,"Heated pool, Bar",2026-05-09
+Cairo,Novotel Cairo Airport,4059,2,0,1,7.6,3572.0,"Heliopolis, Cairo",18.2,4.0,Hotel,Superior Twin Room,No,Not Specified,"Hot tub/Jacuzzi, Airport shuttle (free)",2026-05-09
+Cairo,Le Passage Cairo Hotel & Casino,4705,2,0,1,8.5,3755.0,"Heliopolis, Cairo",18.1,5.0,Hotel,Standard Double or Twin Room with Garden View,Yes,Not Specified,"Airport shuttle (free), Bar, Restaurant",2026-05-09
+Cairo,Holiday Inn Citystars by IHG,4705,2,0,1,7.6,1757.0,"Nasr City, Cairo",10.9,5.0,Inn,Standard Twin Room - Smoking,Yes,Not Specified,"Restaurant, 24-hour front desk",2026-05-09
+Cairo,Skyline luxury hotel apartments 5 mins from Cairo Airport,1318,2,0,1,7.7,570.0,"Heliopolis, Cairo",15.8,3.0,Apartment,Standard Twin Room with Shared Bathroom,Yes,Not Specified,Free Wifi,2026-05-09
+Cairo,Azor pyramids hotel,577,2,0,1,10.0,7.0,"Giza, Cairo",11.6,5.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Airport shuttle (free), Bar",2026-05-09
+Cairo,"Radisson Blu Hotel, Cairo Heliopolis",4983,2,0,1,8.0,6318.0,"Heliopolis, Cairo",15.1,4.0,Hotel,Superior Room,No,Not Specified,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Cairo,Horus Cairo Hotel Downtown,5272,2,0,1,10.0,1.0,Cairo,0.3,3.0,Hotel,Deluxe Double or Twin Room with Balcony,Yes,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Cairo,Baron Hotel Cairo,5186,2,0,1,8.5,3115.0,"Heliopolis, Cairo",10.3,4.0,Hotel,Superior Double or Twin Room,Yes,Not Specified,"Spa, Bar",2026-05-09
+Cairo,City Stars Hotel,1459,2,0,1,6.9,944.0,"Downtown Cairo, Cairo",0.1,3.0,Hotel,Budget Double Room,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Cairo,"Golden Park Hotel Cairo, Heliopolis",2278,2,0,1,7.1,1404.0,"Heliopolis, Cairo",13.7,3.0,Hotel,Standard Double or Twin Room,Yes,Not Specified,"Adults only, Bar, Restaurant",2026-05-09
+Cairo,Novotel Cairo El Borg,5799,2,0,1,8.6,2386.0,"Gezira, Cairo (Gezira)",0.8,4.0,Hotel,Superior Twin Room - City Side,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Cairo,Pyramisa Suites Hotel Cairo,4569,2,0,1,8.5,13240.0,Cairo,1.8,5.0,Hotel,Deluxe Twin Room,Yes,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Cairo,City Hotel,1063,2,0,1,8.0,936.0,Cairo,0.15,4.0,Hotel,Deluxe Double Room,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Cairo,New tutt pyramids view,685,2,0,1,10.0,10.0,"Giza, Cairo",12.1,3.0,Hotel,Budget Double Room,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Cairo,Le Meridien Cairo Airport,7170,2,0,1,8.9,5537.0,"Heliopolis, Cairo",17.2,5.0,Hotel,"Deluxe, Guest room, 1 King, Airport view",No,Not Specified,"Heated pool, Bar, Restaurant",2026-05-09
+Cairo,The President Hotel Cairo,3884,2,0,1,8.5,1732.0,"Zamalek, Cairo (Gezira)",3.0,3.0,Hotel,Deluxe Double or Twin Room,No,Not Specified,"Spa, Bar, Restaurant",2026-05-09
+Cairo,Hyatt Regency Cairo West,7275,2,0,1,9.1,1625.0,Cairo,15.9,5.0,Hotel,King Room,No,Not Specified,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Cairo,Town View Hotel,968,2,0,1,6.8,1454.0,"Downtown Cairo, Cairo",0.35,4.0,Hotel,Deluxe Double Room,Yes,Breakfast included,"Airport shuttle (free), Restaurant, Free Wifi",2026-05-09
+Cairo,MIRA Holiday Home,2214,2,0,1,9.4,95.0,"Nasr City, Cairo",10.5,4.0,Hotel,Studio with Balcony,Yes,Not Specified,"Adults only, Free Wifi, 24-hour front desk",2026-05-09
+Cairo,Concorde El Salam Cairo Hotel & Casino,5238,2,0,1,8.7,2804.0,"Heliopolis, Cairo",13.9,5.0,Hotel,Special Offer - Standard Room - Egyptians Only,No,Not Specified,"Hot tub/Jacuzzi, Heated pool, Airport shuttle (free)",2026-05-09
+Cairo,La Boutique Hôtel - Vue Des Pyramides,2067,2,0,1,8.4,454.0,"Giza, Cairo",11.7,4.0,Hotel,Double Room with City View,No,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Cairo,Hilton Cairo Heliopolis Hotel,7842,2,0,1,8.1,1975.0,"Heliopolis, Cairo",14.0,5.0,Hotel,King Guest Room,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Cairo,Pyramids Park Resort Cairo,4850,2,0,1,8.4,694.0,"Giza, Cairo",12.5,4.0,Resort,Standard Twin Room,Yes,Not Specified,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Cairo,"The Nile Ritz-Carlton, Cairo",10017,2,0,1,8.8,1406.0,"Downtown Cairo, Cairo",0.35,5.0,Hotel,"Deluxe room, 1 King",Yes,Not Specified,"Heated pool, Spa, Bar",2026-05-09
+Cairo,Waldorf Astoria Cairo Heliopolis,10307,2,0,1,9.2,783.0,"Heliopolis, Cairo",14.3,5.0,Hotel,Deluxe King Room,Yes,Not Specified,"Heated pool, Spa",2026-05-09
+Cairo,Tolip El Narges,5294,2,0,1,7.9,790.0,"New Cairo City, Cairo",22.3,5.0,Hotel,Standard Room (Pool View),No,Not Specified,"Heated pool, Free parking, Bar",2026-05-09
+Cairo,SunSet pyramids view Inn,453,2,0,1,9.0,25.0,"Giza, Cairo",10.5,2.0,Inn,Double Room with Terrace,Yes,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Cairo,Triumph Luxury Hotel,8435,2,0,1,9.0,1542.0,"New Cairo City, Cairo",16.7,5.0,Hotel,Egyptians and Residents Only - Deluxe City Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Cairo,Kove Hotel by The Pyramids,3756,2,0,1,8.7,552.0,"Giza, Cairo",11.7,4.0,Hotel,Standard Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Restaurant, Free Wifi",2026-05-09
+Cairo,fox pyramids roof top,1329,2,0,1,10.0,6.0,"Giza, Cairo",10.7,3.0,Hotel,Budget Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Cairo,Golden Carven Hotel,1699,2,0,1,7.2,1042.0,"Heliopolis, Cairo",11.0,3.0,Hotel,Standard Double Room,No,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Cairo,Hilton Cairo Nile Maadi,6498,2,0,1,8.7,665.0,"Old Cairo, Cairo",6.7,5.0,Hotel,King Guest Room with Balcony,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Cairo,Cleopatra Hotel,3832,2,0,1,8.1,2618.0,"Downtown Cairo, Cairo",0.2,3.0,Hotel,Double Room,No,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Cairo,Jewel Sport City and Aqua Park,3416,2,0,1,8.2,2508.0,"Nasr City, Cairo",16.2,5.0,Hotel,Deluxe Double or Twin Room with City View,No,Not Specified,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Cairo,Steigenberger Hotel El Tahrir Cairo,5799,2,0,1,9.2,12032.0,"Downtown Cairo, Cairo",0.25,4.0,Hotel,Superior City View Room,No,Not Specified,"Heated pool, Bar, Restaurant",2026-05-09
+Cairo,Palacio Pyramids Hotel,3796,2,0,1,8.3,197.0,"Giza, Cairo",11.2,4.0,Hotel,Standard Suite with Balcony City and Partial Pyramid View,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Airport shuttle (free)",2026-05-09
+Cairo,"Kempinski Nile Hotel, Cairo",8962,2,0,1,8.7,3127.0,"Garden City, Cairo",0.8,5.0,Hotel,Madina Deluxe Room King,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Cairo,Parkside Boutique Serviced Apartments,3796,2,0,1,8.6,1620.0,"Heliopolis, Cairo",10.6,4.0,Apartment,Executive Studio,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Cairo,Up Town Hotel,2017,2,0,1,7.9,3574.0,"Downtown Cairo, Cairo",0.05,4.0,Hotel,Deluxe King Room,No,Breakfast included,"Airport shuttle (free), Bar, Restaurant",2026-05-09
+Cairo,Holiday Inn Cairo Maadi by IHG,5860,2,0,1,8.0,475.0,"Maadi, Cairo",9.4,5.0,Inn,standard Twin Room with City View - Non-Smoking,Yes,Not Specified,"Heated pool, Bar, Restaurant",2026-05-09
+Cairo,Aida Pyramids INN,1318,2,0,1,9.6,49.0,"Giza, Cairo",12.1,4.0,Inn,Deluxe Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Cairo,Giza Pyramids View Inn,3226,2,0,1,8.0,1133.0,"Giza, Cairo",12.0,4.0,Inn,Deluxe Double or Twin Room,No,Breakfast included,"Hot tub/Jacuzzi, Free parking, Bar",2026-05-09
+Cairo,Cosmopolitan hotel,3084,2,0,1,8.5,1212.0,Cairo,0.6,3.0,Hotel,Deluxe Room (2 Adults + 1 Child),No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Cairo,Turquoise Pyramids & Grand Egyptian museum view Hotel,1974,2,0,1,8.9,1937.0,"Giza, Cairo",11.7,4.0,Hotel,Economy Double Room,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Restaurant",2026-05-09
+Cairo,Egyescape Nile View Apartments,2741,2,0,1,10.0,4.0,"Giza, Cairo",6.5,2.0,Apartment,Superior Studio,Yes,Not Specified,Free Wifi,2026-05-09
+Cairo,New Boutique Apartment Egypt,1794,2,0,1,7.0,3.0,"Heliopolis, Cairo",8.6,3.0,Apartment,Queen Room with Shared Bathroom,No,Not Specified,"Hot tub/Jacuzzi, Free Wifi, 24-hour front desk",2026-05-09
+Cairo,Madina Hostel,1740,2,0,1,9.1,1312.0,"Downtown Cairo, Cairo",0.3,4.0,Hostel,Twin Room with Shared Bathroom,Yes,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Cairo,Fairmont Nile City,7971,2,0,1,8.6,151.0,Cairo,3.1,5.0,Hotel,Fairmont Room with City View,No,Not Specified,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Cairo,Cairo Marriott Hotel,6677,2,0,1,8.5,4535.0,"Zamalek, Cairo (Gezira)",1.8,5.0,Hotel,"Deluxe Room, 2 Double, Balcony",No,Not Specified,"Spa, Bar, Restaurant",2026-05-09
+Cairo,Tolip Family Park Hotel,5008,2,0,1,7.3,690.0,"New Cairo City, Cairo",26.0,5.0,Hotel,Twin Room with Pool View,No,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Cairo,Safir Hotel Cairo,4562,2,0,1,8.4,6302.0,Cairo,2.4,5.0,Hotel,Standard Room,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Cairo,Kempinski Palace Cairo,10333,2,0,1,8.2,907.0,"New Cairo City, Cairo",17.8,5.0,Hotel,Deluxe City Room,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Cairo,Renaissance Cairo Mirage City Hotel,8633,2,0,1,8.1,807.0,"New Cairo City, Cairo",19.9,5.0,Hotel,"Deluxe Guest Room, 2 Twin Beds",No,Not Specified,"Hot tub/Jacuzzi, Airport shuttle (free)",2026-05-09
+Cairo,Middle east pyramids veiw &spa,759,2,0,1,8.8,28.0,"Giza, Cairo",11.8,4.0,Hotel,Double Room with Mountain View,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Cairo,New President Hotel Cairo,5295,2,0,1,8.7,981.0,"Zamalek, Cairo (Gezira)",3.0,3.0,Hotel,Superior King Room with Sofa,Yes,Not Specified,"Bar, Restaurant",2026-05-09
+Cairo,Sonesta Hotel Tower & Casino Cairo,5061,2,0,1,8.4,4333.0,"Nasr City, Cairo",8.8,5.0,Hotel,Deluxe Double or Twin Room,Yes,Not Specified,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Cairo,Intercontinental Cairo Citystars by IHG,10262,2,0,1,8.9,2215.0,"Nasr City, Cairo",11.2,5.0,Hotel,Classic Room,Yes,Not Specified,"Hot tub/Jacuzzi, Spa",2026-05-09
+Cairo,Horus Horizon INN Pyramids View,696,2,0,1,8.9,62.0,"Giza, Cairo",11.1,3.0,Inn,Deluxe Double Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Cairo,Sofitel Cairo Nile El Gezirah,8277,2,0,1,8.6,3490.0,"Gezira, Cairo (Gezira)",1.2,5.0,Hotel,Premium Twin room with Partial Nile View,No,Not Specified,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Cairo,Pyramids Tower INN,696,2,0,1,10.0,47.0,"Giza, Cairo",11.1,3.0,Inn,Deluxe Double Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Cairo,Royal Inn Residence,1645,2,0,1,8.9,1022.0,"Nasr City, Cairo",10.5,3.0,Inn,Economy Double or Twin Room,Yes,Not Specified,"Adults only, Restaurant, Free Wifi",2026-05-09
+Cairo,Hyatt Centric Cairo West,7012,2,0,1,9.3,683.0,Cairo,16.0,5.0,Hotel,Twin Room,No,Not Specified,"Heated pool, Spa, Bar",2026-05-09
+Cairo,Hotel Flamenco Cairo,4228,2,0,1,8.0,2712.0,"Zamalek, Cairo (Gezira)",3.0,4.0,Hotel,Standard City View Room,No,Not Specified,"Bar, Restaurant",2026-05-09
+Cairo,The Gate Hotel Front Pyramids & Sphinx View,2467,2,0,1,8.3,1168.0,"Giza, Cairo",11.9,4.0,Hotel,Standard Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Cairo,Dusit Thani LakeView Cairo,12336,2,0,1,8.7,2494.0,"New Cairo City, Cairo",21.3,5.0,Hotel,Deluxe Room,No,Not Specified,"Hot tub/Jacuzzi, Heated pool, Airport shuttle (free)",2026-05-09
+Cairo,Golden Tahrir Hotel Downtown,2420,2,0,1,10.0,4.0,"Downtown Cairo, Cairo",0.1,4.0,Hotel,Superior Double or Twin Room with City View,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Cairo,The St. Regis Cairo,12336,2,0,1,9.5,1689.0,Cairo,2.2,5.0,Hotel,"Superior, City View, Guest room, 1 King",No,Not Specified,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Cairo,Cairo Hub,1582,2,0,1,8.8,510.0,"Downtown Cairo, Cairo",0.1,4.0,Hotel,Suite with Balcony,Yes,Breakfast included,Free Wifi,2026-05-09
+Alexandria,Alexandria Ap,1487,2,0,1,6.3,18.0,Alexandria,5.8,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Hayah Waterfalls Hotels,1518,2,0,1,7.6,389.0,Alexandria,2.3,4.0,Hotel,Deluxe Double Room with Side Sea View,Yes,Not Specified,24-hour front desk,2026-05-09
+Alexandria,grey l studio apartments Corniche Alexandria,1769,2,0,1,8.6,557.0,Alexandria,1.6,3.0,Apartment,Studio Economy,Yes,Not Specified,24-hour front desk,2026-05-09
+Alexandria,Rixos Montaza Alexandria,7354,2,0,1,9.1,1124.0,Alexandria,13.5,5.0,Hotel,Bungalow,No,Breakfast included,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Alexandria,Crowne Plaza Alexandria Mirage by IHG,4028,2,0,1,8.6,1646.0,Alexandria,3.1,5.0,Hotel,1 King and 1 Single Standard,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Alexandria,Ramsis Hotel,2752,2,0,1,8.4,40.0,Alexandria,1.4,3.0,Hotel,Double Room,No,Breakfast included,"Bar, Restaurant, 24-hour front desk",2026-05-09
+Alexandria,Hilton Alexandria Green Plaza,3809,2,0,1,8.5,1998.0,Alexandria,4.5,5.0,Hotel,Twin Room,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Alexandria,Hilton Alexandria Corniche Hotel,5019,2,0,1,7.9,2552.0,Alexandria,9.2,5.0,Hotel,King Room with Partial Sea View,Yes,Not Specified,"Hot tub/Jacuzzi, Spa",2026-05-09
+Alexandria,AL ASAFRA DAHAB - families only,1160,2,0,1,8.1,864.0,Alexandria,11.2,3.0,Hotel,Studio,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,Kaoud Sporting Hotel,949,2,0,1,5.0,738.0,Alexandria,2.7,3.0,Hotel,Budget Double Room with Back View,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Santorini Seafront Stay,2636,2,0,1,8.6,56.0,Alexandria,1.7,3.0,Apartment,Apartment with Sea View,Yes,Not Specified,Not Available,2026-05-09
+Alexandria,Hilton Alexandria King's Ranch Hotel,5512,2,0,1,8.5,954.0,Alexandria,32.4,5.0,Hotel,Twin Room,Yes,Not Specified,"Hot tub/Jacuzzi, Spa",2026-05-09
+Alexandria,Palestine Montaza Alexandria,7803,2,0,1,8.5,2816.0,Alexandria,13.6,5.0,Hotel,Superior Double or Twin Room with Sea View,Yes,Breakfast included,"Hot tub/Jacuzzi, Spa, Restaurant",2026-05-09
+Alexandria,Plaza Hotel Alexandria,3321,2,0,1,7.2,2335.0,Alexandria,6.6,4.0,Hotel,Standard Room with Side Sea View - Egyptians and Residents Only,No,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Alexandria,"Helnan Palace Hotel - Montaza Royal Gardens Alexandria , Adults Only",6326,2,0,1,8.5,818.0,Alexandria,13.5,5.0,Hotel,Special Offer - Princess Room - Egyptians Only,Yes,Breakfast included,"Adults only, Hot tub/Jacuzzi, Spa",2026-05-09
+Alexandria,Jewel San Stefano Hotel,1845,2,0,1,6.1,3725.0,Alexandria,7.1,4.0,Hotel,Standard Room City View for Egyptian and Resident Foreigners only,No,Breakfast included,"Restaurant, 24-hour front desk",2026-05-09
+Alexandria,Downtown Sea View Suites,2593,2,0,1,9.0,436.0,Alexandria,2.9,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,The Grand Plaza Hotel Smouha,3053,2,0,1,8.1,2287.0,Alexandria,4.1,4.0,Hotel,Standard Room,No,Not Specified,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Ritz hotel,2372,2,0,1,6.9,134.0,Alexandria,1.3,5.0,Hotel,Deluxe Double Room with Side Sea View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Alexandria,Gleem Bay Luxury Apartment,2847,2,0,1,8.9,106.0,Alexandria,5.0,3.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,Windsor Palace Luxury Heritage Hotel Since 1906 by Paradise Inn Group,5781,2,0,1,9.1,3187.0,Alexandria,2.1,4.0,Inn,Golden Classic Room City View,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Alexandria,Helnan Mamoura Hotel & Events Center,5536,2,0,1,9.0,1472.0,"Al Mamurah, Alexandria",14.6,5.0,Hotel,Special Offer - Deluxe Double or Twin Room with Pool View - Egyptians Only,Yes,Breakfast included,"Heated pool, Spa, Bar",2026-05-09
+Alexandria,Alex inn Rooms,844,2,0,1,6.6,134.0,Alexandria,1.7,4.0,Inn,Double Room,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Royal jewel Al-Raml Hotel,4639,2,0,1,7.9,44.0,Alexandria,1.5,4.0,Hotel,Standard Double Room with City View,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Steigenberger Cecil Hotel Alexandria,6117,2,0,1,9.0,2145.0,Alexandria,1.9,4.0,Hotel,Classic Room,No,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Alexandria,"Radisson Blu Hotel & Convention Center, Alexandria",6050,2,0,1,8.9,1072.0,Alexandria,24.8,5.0,Hotel,Standard Room with terrace,Yes,Breakfast included,"Adults only, Hot tub/Jacuzzi, Heated pool",2026-05-09
+Alexandria,Enjoy modern cozy entire studio in a fancy building with Free Wi-Fi & AC and Flat screen TV in Loran in the heart of Alexandria,696,2,0,1,9.1,21.0,Alexandria,8.0,4.0,Apartment,Studio with Garden View,No,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Alexandria,SEA VIEW PARADISE 2,2593,2,0,1,9.3,94.0,Alexandria,3.4,3.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,Eastern Al Montazah Hotel,3255,2,0,1,7.9,1627.0,Alexandria,13.2,4.0,Hotel,Superior Room with City View,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Restaurant",2026-05-09
+Alexandria,Skyline Holiday Homes,5959,2,0,1,7.7,335.0,Alexandria,1.7,3.0,Apartment,Three-Bedroom Apartment - Corner Sea View,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,Cleopatra Family Residents,1091,2,0,1,6.0,1636.0,Alexandria,3.1,3.0,Hotel,Deluxe Double Room with Sea View,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,ALEX HOMES - Sporting Cozy Apartments with Direct Sea View,7683,2,0,1,8.9,114.0,Alexandria,2.7,4.0,Apartment,Three-Bedroom Apartment with Sea View,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Hayah Suites & Rooms,844,2,0,1,5.7,124.0,Alexandria,1.8,4.0,Apartment,Double Room with Shared Bathroom,Yes,Not Specified,24-hour front desk,2026-05-09
+Alexandria,Bianchi Hotel,1266,2,0,1,8.9,350.0,Alexandria,15.7,4.0,Hotel,Superior Double Room,No,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,اللوكاندة الجديدة New Hotel,738,2,0,1,8.0,298.0,Alexandria,2.1,4.0,Hotel,Deluxe Double Room with Side Sea View,Yes,Not Specified,"Adults only, Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Tolip Hotel Alexandria,7381,2,0,1,8.2,12530.0,Alexandria,4.4,5.0,Hotel,Special Offer - Deluxe Room with City View - Egyptians and Residents Only,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Alexandria,Le Metropole Luxury Heritage Hotel Since 1902 by Paradise Inn Group,6978,2,0,1,9.4,2738.0,Alexandria,1.7,5.0,Inn,Golden Classic Room City View With Light Dinner,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Arab Boutique I Alexandria I Downtown,1233,2,0,1,7.4,297.0,Alexandria,1.0,4.0,Hotel,Double Room with Private Bathroom,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Sporting Suite Studio,2372,2,0,1,7.7,64.0,Alexandria,2.7,4.0,Apartment,Studio Apartment,Yes,Not Specified,Not Available,2026-05-09
+Alexandria,Nabeel Homes Boutique Hotel,6573,2,0,1,9.1,159.0,Alexandria,6.9,4.0,Apartment,Three-Bedroom Apartment - Corner Sea View,No,Not Specified,Free Wifi,2026-05-09
+Alexandria,"Alexandria private rooms, Only For Men 仅限男士",860,2,0,1,7.1,163.0,Alexandria,2.8,4.0,Hotel,Deluxe Double Room with Side Sea View,No,Not Specified,Free Wifi,2026-05-09
+Alexandria,Nabeel Homes - Seaview Rooftop - San Stefano,8113,2,0,1,8.2,64.0,Alexandria,7.0,5.0,Apartment,Apartment,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Golden Jewel Beach&Hotel,6854,2,0,1,8.6,829.0,Alexandria,3.9,5.0,Hotel,Deluxe Room Side Sea View (Egyptians & Residents only),Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Alexandria,Alex Panoramic seaview,2873,2,0,1,9.3,112.0,Alexandria,3.9,3.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,No,Not Specified,Free Wifi,2026-05-09
+Alexandria,Wide Seaview 3-Bedroom Apartment,3601,2,0,1,8.4,56.0,Alexandria,9.8,3.0,Apartment,Three-Bedroom Apartment,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,San Giovanni Stanly Hotel,4007,2,0,1,8.6,987.0,Alexandria,4.7,3.0,Hotel,Standard Double Room,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Alexandria,Royal Luxury Apartment with Gorgeous Sea View,5186,2,0,1,8.1,43.0,Alexandria,1.6,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Alexandria,Nabeel Homes - Seaview Building - 3 Units in Saba Pasha,6992,2,0,1,8.6,114.0,Alexandria,5.4,4.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Smouha Hotel,1186,2,0,1,6.7,30.0,Alexandria,2.4,4.0,Hotel,Double Room with Garden View,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Sea View Haven In San Stefano,2161,2,0,1,8.5,81.0,Alexandria,6.9,3.0,Hotel,Sea View Haven B,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Al Corniche Residence Sea View,6039,2,0,1,9.6,157.0,Alexandria,5.9,4.0,Apartment,Luxury Apartment with Partial sea View,Yes,Not Specified,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Louran Residence Hotel Apartments,3427,2,0,1,8.0,192.0,Alexandria,7.5,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Nabeel Homes - Seaview Building - 3 Units in Gleem,7686,2,0,1,7.8,81.0,Alexandria,5.8,4.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,S Hotel Egyptian only,1292,2,0,1,4.7,301.0,Alexandria,1.8,3.0,Hotel,Deluxe Double Room with Sea View,Yes,Not Specified,"Restaurant, 24-hour front desk",2026-05-09
+Alexandria,Jasmin Holiday House,6128,2,0,1,9.6,8.0,Alexandria,32.5,4.0,Villa,Two-Bedroom Bungalow with Private Garden,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Alexandria,Panorama sea view Domino's house,2735,2,0,1,8.9,23.0,Alexandria,11.4,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Alexandria,Alexandria is world wide TEST,3374,2,0,1,8.6,151.0,Alexandria,21.4,4.0,Apartment,One-Bedroom Apartment,Yes,Breakfast included,Free Wifi,2026-05-09
+Alexandria,شقة فندقية علي البحر مباشرة بجليم,3803,2,0,1,8.3,16.0,Alexandria,5.9,3.0,Apartment,Apartment with Sea View,No,Not Specified,Free Wifi,2026-05-09
+Alexandria,Elegant 3BR Seaview Apartment,3025,2,0,1,7.8,4.0,Alexandria,3.1,4.0,Apartment,Three-Bedroom Apartment with Sea View,No,Not Specified,Free Wifi,2026-05-09
+Alexandria,Sea view in gleem luxury apartments - Saba Basha - alexandria,3889,2,0,1,8.6,5.0,Alexandria,5.6,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Hot tub/Jacuzzi, Spa, Restaurant",2026-05-09
+Alexandria,Transit Alexandria Hostel,896,2,0,1,7.1,369.0,Alexandria,1.9,4.0,Hostel,Standard Double Room with Fan,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Alexander House,10036,2,0,1,9.1,114.0,Alexandria,7.5,4.0,Apartment,Apartment with Sea View,No,Not Specified,Free Wifi,2026-05-09
+Alexandria,شاليهات سي جاردن Sea Garden Club families only,2388,2,0,1,6.1,46.0,Alexandria,10.3,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free parking, 24-hour front desk",2026-05-09
+Alexandria,In the clouds,8163,2,0,1,8.2,20.0,Alexandria,6.8,3.0,Apartment,Four-Bedroom Luxury Apartment,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,Borg Barka - Families Only,1186,2,0,1,7.8,117.0,Alexandria,8.2,4.0,Hotel,Studio with Balcony,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,grey l studio apartments Downtown Alexandria Menasce House,2103,2,0,1,9.1,493.0,Alexandria,1.7,3.0,Apartment,One-Bedroom Standard Apartment,No,Not Specified,Free Wifi,2026-05-09
+Alexandria,Sporting star,1714,2,0,1,6.9,18.0,Alexandria,2.7,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Hot tub/Jacuzzi, Bar, Restaurant",2026-05-09
+Alexandria,Luxury Mamoura Alexandria Apartment,10122,2,0,1,9.4,19.0,"Al Mamurah, Alexandria",14.8,3.0,Apartment,Apartment with Garden View,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Alexandria,Elmandara residence,1423,2,0,1,7.9,12.0,Alexandria,12.2,5.0,Apartment,Double Room,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Alexandria,City Square - Brand New Luxury Apartment With Stunning Sea View,4639,2,0,1,8.3,82.0,Alexandria,3.9,4.0,Apartment,Three-Bedroom Apartment,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Free Wifi",2026-05-09
+Alexandria,Golden Hoster Hotel Alexandria,3427,2,0,1,7.0,81.0,Alexandria,2.2,4.0,Hotel,Triple Room,Yes,Not Specified,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,XU San Stefano Hotel Alexandria,5947,2,0,1,7.9,361.0,Alexandria,7.2,5.0,Hotel,Standard Double or Twin Room,No,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Alexandria,Four Seasons Hotel Alexandria At San Stefano,14762,2,0,1,9.3,1213.0,Alexandria,6.8,5.0,Hotel,Superior King Room with City View,Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Alexandria,Saraya Eltram-families only,1044,2,0,1,7.9,306.0,Alexandria,8.2,4.0,Hotel,Family Studio,Yes,Not Specified,Free Wifi,2026-05-09
+Alexandria,La mer Hotel,2420,2,0,1,7.5,118.0,Alexandria,10.7,4.0,Hotel,Double or Twin Room with Sea View,No,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Hurghada,Hurghada Marriott Beach Resort,4929,2,0,1,8.4,1259.0,"Al Mamsha El Seyahi, Hurghada",7.6,5.0,Resort,Standard King Room with Balcony and Sea View,No,Breakfast included,Not Available,2026-05-09
+Hurghada,AJIRA Boutique Hotel Hurghada Marina,2505,2,0,1,8.2,2282.0,Hurghada,4.8,4.0,Hotel,Standard Queen Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Shellghada Blue Beach,3231,2,0,1,7.9,3200.0,Hurghada,7.6,4.0,Hotel,Deluxe Double or Twin Room with Mountain View,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Sunrise Alora Aqua Park Resort,6827,2,0,1,9.5,2039.0,"Al Ahyaa, Hurghada (Al Ahyaa)",10.2,4.0,Resort,Superior Room,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Cordoba Suites,1503,2,0,1,8.3,1540.0,"Al Mamsha El Seyahi, Hurghada",7.9,3.0,Apartment,Double or Twin Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Redcon Suites,2179,2,0,1,9.4,4203.0,Hurghada,5.9,4.0,Apartment,Superior Studio - Ground Floor,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Mercure Hurghada Hotel,3403,2,0,1,8.3,1005.0,"Villages Road, Hurghada (Villages Road)",14.1,4.0,Villa,Standard Twin Room,No,Breakfast included,Not Available,2026-05-09
+Hurghada,Movenpick Resort & Spa El Gouna,6941,2,0,1,8.0,1253.0,"El Gouna, Hurghada",19.8,5.0,Resort,Classic King Room,No,Breakfast included,Not Available,2026-05-09
+Hurghada,Palm Inn Hotel Hurghada,1687,2,0,1,7.6,1700.0,Hurghada,0.1,3.0,Inn,Economy Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Pickalbatros Citadel Resort Sahl Hasheesh,9445,2,0,1,9.5,7305.0,Hurghada,22.3,5.0,Resort,Marina Room (2 Adults Only),No,All meals included,Not Available,2026-05-09
+Hurghada,JAZ Neo Ivory,1652,2,0,1,8.0,856.0,"Al Mamsha El Seyahi, Hurghada",8.0,3.0,Hotel,Suite ( 2 Adults + 1 child ),Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Bedcoin Hostel,1318,2,0,1,9.2,1562.0,Hurghada,5.5,4.0,Hostel,Standard Double Room with Shared Bathroom,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Andalusia Blue Beach Hurghada,1698,2,0,1,7.1,2305.0,"Al Mamsha El Seyahi, Hurghada",8.5,3.0,Hotel,Deluxe Studio,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,"Steigenberger Aqua Magic, All inclusive",6479,2,0,1,9.1,2372.0,"Al Mamsha El Seyahi, Hurghada",10.7,5.0,Hotel,"Standard room, without balcony",No,Breakfast included,Not Available,2026-05-09
+Hurghada,Continental Rosa Boho Aquapark Hotel 3 Stars,1275,2,0,1,7.7,73.0,"Al Mamsha El Seyahi, Hurghada",11.8,3.0,Hotel,Standard Double Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Sunrise Solara Aqua park Resort,4747,2,0,1,9.7,186.0,"Al Ahyaa, Hurghada (Al Ahyaa)",10.1,4.0,Resort,Standard Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Sunrise Holidays Resort -Adults Only,8412,2,0,1,9.1,3571.0,Hurghada,6.5,5.0,Resort,Superior Room with Sea View,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Sunrise Aqua Joy Resort,7181,2,0,1,9.2,5307.0,"Al Mamsha El Seyahi, Hurghada",10.3,4.0,Resort,Standard Room,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,The Grand Resort,6405,2,0,1,8.5,5696.0,"Al Mamsha El Seyahi, Hurghada",9.4,5.0,Resort,Deluxe Room,No,All-inclusive,Not Available,2026-05-09
+Hurghada,Hilton Hurghada Plaza Hotel,8970,2,0,1,8.5,2807.0,Hurghada,1.7,5.0,Hotel,Deluxe Twin Room with Sea View,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Boho Homes,2425,2,0,1,8.8,633.0,Hurghada,7.1,3.0,Hotel,Suite,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Makadi Palace - Couples and Families Only,6643,2,0,1,8.8,531.0,Hurghada,30.1,5.0,Hotel,Junior Suite,No,All-inclusive,Not Available,2026-05-09
+Hurghada,Zak Inn,1889,2,0,1,8.9,2289.0,Hurghada,5.8,3.0,Inn,Economy Double Room,No,Not Specified,Not Available,2026-05-09
+Hurghada,Giftun Azur Resort,5703,2,0,1,8.5,2659.0,"Al Mamsha El Seyahi, Hurghada",8.3,3.0,Resort,Bungalow Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,New Eagles Downtown Zahabia Resort & Aqua Park,4233,2,0,1,8.0,2751.0,Hurghada,3.3,4.0,Resort,Standard Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Pickalbatros Palace - Aqua Park Hurghada,9906,2,0,1,9.4,4372.0,"Villages Road, Hurghada (Villages Road)",15.5,5.0,Villa,Special Offer - Standard Double Room - Egyptians and Residents Only,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Sheraton Soma Bay Resort,7117,2,0,1,8.7,666.0,"Soma Bay, Hurghada",49.4,5.0,Resort,"Classic Guest Room, Guest room, 1 King, Limited view",No,Breakfast included,Not Available,2026-05-09
+Hurghada,Lamera Hotel,1932,2,0,1,8.0,1396.0,Hurghada,4.7,3.0,Hotel,Large Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,"Lazur Pool Apartment's - El Kawsar, Hurghada - Egypt",1582,2,0,1,8.6,257.0,Hurghada,7.3,3.0,Apartment,One-Bedroom Apartment with City View,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Soly appartments,949,2,0,1,10.0,6.0,Hurghada,6.1,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,New Eagles Aqua Park Resort,5272,2,0,1,8.6,1654.0,"Villages Road, Hurghada (Villages Road)",14.7,4.0,Resort,Double or Twin Room with Pool View,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Beach Albatros Aqua Park - Hurghada,9950,2,0,1,9.2,3427.0,"Villages Road, Hurghada (Villages Road)",15.3,5.0,Villa,Special Offer- Deluxe Room- Egyptians and Residents Only,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Turtle's Inn Hotel,4714,2,0,1,8.3,301.0,"El Gouna, Hurghada",21.9,3.0,Inn,Standard Room,No,Breakfast included,Not Available,2026-05-09
+Hurghada,Doubletree By Hilton Mangroovy El Gouna Resort,13892,2,0,1,9.0,217.0,"El Gouna, Hurghada",22.2,5.0,Resort,King Guest Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Al Dora Hotel & Spa,4100,2,0,1,9.3,51.0,Hurghada,1.2,3.0,Hotel,Deluxe Double or Twin Room,No,All-inclusive,Not Available,2026-05-09
+Hurghada,Pickalbatros Alf Leila Wa Leila Resort - Neverland Hurghada,9414,2,0,1,9.0,1639.0,"Villages Road, Hurghada (Villages Road)",18.6,4.0,Resort,Special Offer - Standard Double Room - Egyptians and Residents Only,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,"The Grand Hotel, Hurghada",5457,2,0,1,7.9,1128.0,"Al Mamsha El Seyahi, Hurghada",9.5,4.0,Hotel,Superior Room,No,All-inclusive,Not Available,2026-05-09
+Hurghada,Vison Suites Sandy Beach All Inclusive Resort,3321,2,0,1,7.7,29.0,"Al Ahyaa, Hurghada (Al Ahyaa)",5.8,4.0,Resort,Superior Double or Twin Room with Pool View,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,The Kaktus Somabay,5588,2,0,1,9.0,187.0,"Soma Bay, Hurghada",46.0,4.0,Hotel,Double or Twin Room with Mountain View,No,Breakfast included,Not Available,2026-05-09
+Hurghada,Pharaoh Azur Resort,6439,2,0,1,8.7,1273.0,"Villages Road, Hurghada (Villages Road)",19.4,4.0,Resort,Azur Garden View Room,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Old Palace Resort Sahl Hasheesh,5175,2,0,1,8.7,2136.0,"Sahl Hasheesh, Hurghada (Sahl Hasheesh)",24.6,5.0,Resort,Standard Room with Garden View,No,Breakfast included,Not Available,2026-05-09
+Hurghada,Hurghada Porto View,2794,2,0,1,7.4,82.0,"Al Mamsha El Seyahi, Hurghada",8.4,3.0,Hotel,Double Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,TK Royal & Spa,4834,2,0,1,8.4,369.0,"Al Mamsha El Seyahi, Hurghada",11.9,4.0,Hotel,Deluxe Twin Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Steigenberger Golf Resort El Gouna,11377,2,0,1,8.7,1415.0,"El Gouna, Hurghada",19.8,5.0,Resort,Deluxe Twin Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,SOLA INN Hotel Hurghada,1218,2,0,1,7.9,74.0,"Villages Road, Hurghada (Villages Road)",12.8,3.0,Villa,Double Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,فندق ميراج باي اكوا بارك,4244,2,0,1,8.5,6.0,"Villages Road, Hurghada (Villages Road)",18.7,4.0,Villa,Double Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Pickalbatros White Beach Resort - Hurghada,10233,2,0,1,9.3,4660.0,"Al Mamsha El Seyahi, Hurghada",8.5,5.0,Resort,Special Offer - Deluxe Double Room - Egyptians and Residents Only,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Arabella Azur Resort,6576,2,0,1,8.8,1226.0,Hurghada,4.0,3.0,Resort,Azur Garden View Room,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,MinaMark Beach Resort for Families and Couples Only,4007,2,0,1,8.4,1269.0,Hurghada,5.3,4.0,Resort,Budget Double Room - No Balcony,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Siva Golden Bay Makadi,6643,2,0,1,8.5,1806.0,Hurghada,34.1,4.0,Hotel,Deluxe Room Garden/Sea View,No,All-inclusive,Not Available,2026-05-09
+Hurghada,La Casa Beach,1661,2,0,1,7.7,871.0,Hurghada,6.2,3.0,Hotel,Budget Double Room,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Blend Club Aqua Resort,5694,2,0,1,8.7,1105.0,"Villages Road, Hurghada (Villages Road)",18.5,4.0,Resort,Superior Twin Garden View,No,All-inclusive,Not Available,2026-05-09
+Hurghada,Sky View Suites Hotel,2902,2,0,1,8.2,473.0,Hurghada,7.0,4.0,Hotel,Suite with Garden View,No,Not Specified,Not Available,2026-05-09
+Hurghada,Pickalbatros Jungle Aqua Park - Neverland Hurghada,10847,2,0,1,9.1,5617.0,"Villages Road, Hurghada (Villages Road)",18.8,4.0,Villa,Deluxe Room with Pool View- Alf Leila Wa Leila Area,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Gcribs Onebedroom Elgouna,2135,2,0,1,7.7,20.0,"El Gouna, Hurghada",22.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Hurghada,"Lazur Sea & City Apartment's - El Hadaba, Hurghada - Egypt",1450,2,0,1,8.6,1447.0,Hurghada,6.1,4.0,Apartment,One-Bedroom Standard Apartment (Ground Floor),Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Al Dora Resort All Inclusive Hotel,3986,2,0,1,7.5,642.0,Hurghada,1.2,3.0,Resort,Deluxe Double or Twin Room with City View,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Three Corners Ocean View El Gouna - Adults Only,5973,2,0,1,8.8,968.0,"El Gouna, Hurghada",21.2,4.0,Hotel,Premium Room with Garden View,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Arabia Azur Resort,6218,2,0,1,8.6,2335.0,Hurghada,3.8,3.0,Resort,Garden View Double Room,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,TK Royal Hotel & SPA,5352,2,0,1,9.9,15.0,"Al Mamsha El Seyahi, Hurghada",11.9,4.0,Inn,Deluxe Double or Twin Room,No,All-inclusive,Not Available,2026-05-09
+Hurghada,The Chedi El Gouna,15500,2,0,1,9.1,736.0,"El Gouna, Hurghada",19.9,5.0,Hotel,Deluxe Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Premier Le Reve Hotel & Spa Sahl Hasheesh - Adults Only 16 Years Plus,12521,2,0,1,9.3,667.0,"Sahl Hasheesh, Hurghada (Sahl Hasheesh)",27.2,5.0,Hotel,Double Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Tropitel Sahl Hasheesh,8425,2,0,1,8.9,1636.0,"Sahl Hasheesh, Hurghada (Sahl Hasheesh)",27.7,5.0,Inn,Deluxe Room,Yes,Breakfast & dinner included,Not Available,2026-05-09
+Hurghada,Imperial Resort Hurghada,2096,2,0,1,8.3,372.0,"Al Ahyaa, Hurghada (Al Ahyaa)",14.0,4.0,Resort,Deluxe Studio,Yes,Not Specified,Not Available,2026-05-09
+Hurghada,Al Dora Residence Suites Hurghada,4033,2,0,1,7.6,1195.0,Hurghada,1.2,3.0,Apartment,Twin Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Hurghada,Pickalbatros Aqua Vista Resort - Hurghada,6992,2,0,1,9.0,3176.0,"Villages Road, Hurghada (Villages Road)",14.9,4.0,Resort,Special Offer - Standard Double Room - Egyptians and Residents Only,No,All meals included,Not Available,2026-05-09
+Hurghada,Sky Star Hotel free shuttle to Hurghada City Center,2109,2,0,1,8.7,268.0,Hurghada,21.3,3.0,Hotel,Superior Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Pickalbatros Aqua Blu Resort - Hurghada,8398,2,0,1,9.3,1837.0,"Villages Road, Hurghada (Villages Road)",15.0,4.0,Resort,Deluxe Double Room - Egyptians and Residents Only,Yes,All meals included,Not Available,2026-05-09
+Hurghada,Four Seasons Hotel,949,2,0,1,7.8,189.0,Hurghada,0.7,1.0,Hotel,Double Room with Private Bathroom,Yes,Breakfast included,Not Available,2026-05-09
+Hurghada,Sheraton Miramar Resort El Gouna,9490,2,0,1,8.5,517.0,"El Gouna, Hurghada",20.9,5.0,Resort,Superior Twin Room,No,Breakfast included,Not Available,2026-05-09
+Hurghada,Steigenberger Aldau Beach Hotel,14320,2,0,1,9.6,1556.0,"Al Mamsha El Seyahi, Hurghada",10.6,5.0,Hotel,Superior Suite Garden or pool view,No,All-inclusive,Not Available,2026-05-09
+Hurghada,Dexon Roma All Inclusive Hotel,5030,2,0,1,8.0,167.0,Hurghada,6.0,3.0,Hotel,Deluxe Double Room with Balcony,No,All-inclusive,Not Available,2026-05-09
+Hurghada,KaiSol Romance Resort Sahl Hasheesh - Adults Only,12850,2,0,1,9.2,1638.0,"Sahl Hasheesh, Hurghada (Sahl Hasheesh)",24.7,5.0,Resort,Superior Room,No,Breakfast included,Not Available,2026-05-09
+Hurghada,Grand Palace - Couples only 18 years plus,10201,2,0,1,8.9,2044.0,"Al Mamsha El Seyahi, Hurghada",9.3,5.0,Hotel,Junior Suite with Partial Sea View,No,All-inclusive,Not Available,2026-05-09
+Hurghada,Siva Grand Beach,6261,2,0,1,9.3,4285.0,"Al Mamsha El Seyahi, Hurghada",8.2,4.0,Hotel,Deluxe Room,No,All-inclusive,Not Available,2026-05-09
+Sharm El Sheikh,DoubleTree by Hilton Sharm El Sheikh Sharm Bay,4481,2,0,1,8.9,2603.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",9.0,4.0,Hotel,Mountainside King Deluxe Room - Pool View,Yes,Breakfast included,"Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Xperience Hill-Top Beach Resort,2662,2,0,1,9.0,1379.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",6.4,4.0,Resort,Bungalow with Sea View,Yes,Not Specified,"Adults only, Free parking, Bar",2026-05-09
+Sharm El Sheikh,Silia Luxury Residence,2372,2,0,1,10.0,4.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",7.7,4.0,Apartment,Studio Apartment,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Sharm El Sheikh,Traveller Namma bay,1740,2,0,1,7.8,521.0,"Naama Bay, Sharm El Sheikh",0.9,3.0,Hotel,Studio,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Sharm El Sheikh,Dive Inn Resort,2194,2,0,1,8.5,1350.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.9,4.0,Resort,Budget Double Room,No,Not Specified,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Movenpick Resort Sharm El Sheikh,4813,2,0,1,8.9,1343.0,"Naama Bay, Sharm El Sheikh",1.3,5.0,Resort,Classic Queen Room with Partial Sea View,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,Hotel Novotel Sharm El-Sheikh,4734,2,0,1,9.1,4213.0,"Naama Bay, Sharm El Sheikh",0.2,5.0,Hotel,"Standard Room with 2 Single Beds, Garden Side (Palm Wing)",No,Breakfast included,"Heated pool, Spa",2026-05-09
+Sharm El Sheikh,Xperience Golden Sandy Beach,1992,2,0,1,8.8,1430.0,Sharm El Sheikh,7.4,4.0,Hotel,Bungalow House Sea View,Yes,Not Specified,"Adults only, Free parking, Bar",2026-05-09
+Sharm El Sheikh,Turquoise Beach Hotel,2407,2,0,1,8.4,2307.0,Sharm El Sheikh,7.2,3.0,Hotel,Double Room with Garden View,No,Not Specified,"Free parking, Spa",2026-05-09
+Sharm El Sheikh,Savoy Sharm El Sheikh,6631,2,0,1,8.8,2137.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",8.3,5.0,Hotel,Standard Twin Room with Garden View,Yes,Breakfast included,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Sharm El Sheikh,Dreams Beach Resort - Sharm El Sheikh,3321,2,0,1,8.3,3358.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.0,5.0,Resort,Standard Garden View Room,No,Not Specified,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Sharm Reef Hotel,2980,2,0,1,8.9,1307.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",6.0,4.0,Hotel,Standard Double Room,Yes,Breakfast included,"Spa, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Dreams Vacation Resort - Sharm El Sheikh,2847,2,0,1,8.0,1835.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",4.2,4.0,Resort,Standard Garden View Room,No,Not Specified,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,Serenity Sharm Lodge,3226,2,0,1,7.7,3.0,Sharm El Sheikh,9.4,3.0,Hotel,Double or Twin Room with Sea View,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Sharm El Sheikh,Verginia Sharm Resort & Aqua Park,3683,2,0,1,9.1,1526.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.2,4.0,Resort,Verginia Double Room,No,All-inclusive,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Grand Rotana Resort & Spa,7311,2,0,1,8.7,754.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",5.7,5.0,Resort,Garden view Room - Egyptian and Residents only,Yes,Breakfast included,"Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Royal Savoy Sharm El Sheikh,8710,2,0,1,9.3,1079.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",8.4,5.0,Hotel,Double Room,No,Breakfast included,"Adults only, Free parking, Airport shuttle (free)",2026-05-09
+Sharm El Sheikh,Naama Blue Hotel,2114,2,0,1,8.3,4532.0,"Naama Bay, Sharm El Sheikh",1.0,3.0,Hotel,Economy Double or Twin Room,No,Not Specified,"Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Amphoras Blu Ultra-All Inclusive Adults Only,5436,2,0,1,8.6,6804.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.4,4.0,Hotel,Standard Room Garden View,Yes,All-inclusive,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Continental Plaza Beach Resort,3809,2,0,1,8.4,334.0,"Garden Bay, Sharm El Sheikh (Garden Bay)",2.8,4.0,Resort,Standard Room,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Coral Hills Resort Sharm El-Sheikh,1920,2,0,1,7.2,578.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.9,3.0,Resort,Standard Double or Twin Pool View Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Sanafir Hotel - El Pacha Suites Sharm - Adults Only,3690,2,0,1,8.2,1534.0,"Naama Bay, Sharm El Sheikh",0.8,4.0,Hotel,Standard Double Room with Private Bathroom,Yes,Breakfast included,"Adults only, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Desert View Sharm Hotel,2847,2,0,1,7.0,778.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.2,3.0,Hotel,Standard Twin Room,Yes,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Xperience Sea Breeze Resort,7845,2,0,1,9.0,2089.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",6.0,5.0,Resort,Pool view room,Yes,All meals included,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,Falcon Hills Hotel,2383,2,0,1,7.3,1275.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.2,3.0,Hotel,Standard Room with Garden View,No,Not Specified,"Heated pool, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Naama Bay Promenade Beach Resort Managed By Accor,4257,2,0,1,7.7,1933.0,"Naama Bay, Sharm El Sheikh",0.35,5.0,Resort,Standard Twin Room with Garden View - Mountain Side,No,Not Specified,"Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Pickalbatros Laguna Vista Aqua Park - 24 HRS All Inclusive,8856,2,0,1,9.4,9053.0,"Nabq Bay, Sharm El Sheikh (Nabq Bay)",17.4,5.0,Inn,Special Offer - Deluxe Room - Egyptians and Residents Only,No,All meals included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Sierra Sharm El Sheikh,7813,2,0,1,9.3,2194.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",8.3,4.0,Inn,Standard Twin Room with Garden View,Yes,All meals included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,JAZ Fanara Resort,9274,2,0,1,9.2,5438.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",7.4,5.0,Resort,Superior Room,Yes,All meals included,"Hot tub/Jacuzzi, Spa",2026-05-09
+Sharm El Sheikh,Amphoras Beach - Ultra All Inclusive,7907,2,0,1,8.5,6642.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.3,5.0,Hotel,Superior Garden View Room,Yes,All-inclusive,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Reef Oasis Blue Bay Resort & Spa,9391,2,0,1,9.1,2245.0,"Garden Bay, Sharm El Sheikh (Garden Bay)",3.3,5.0,Resort,Superior Double or Twin Room with Garden View,Yes,All-inclusive,"Airport shuttle (free), Spa, Bar",2026-05-09
+Sharm El Sheikh,Renaissance Sharm El Sheikh Golden View Beach Resort,6590,2,0,1,8.3,806.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",7.3,5.0,Resort,"Garden View Room, Guest room, Garden View, 2 Twin Beds",Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,Grand Oasis Resort,9213,2,0,1,8.8,1928.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",7.6,4.0,Resort,Standard Double or Twin Pool View Room,No,Not Specified,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Stella Di Mare Beach Hotel & Spa,6004,2,0,1,8.9,3334.0,"Naama Bay, Sharm El Sheikh",1.2,5.0,Hotel,Standard Double or Twin Room,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Falcon Naama Star Hotel,3124,2,0,1,7.0,1864.0,"Naama Bay, Sharm El Sheikh",1.2,3.0,Hotel,Standard Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Carlton Luxury Villa,14234,2,0,1,6.8,74.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.7,3.0,Villa,Three-Bedroom Villa with Private Pool,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Free Wifi",2026-05-09
+Sharm El Sheikh,Naama Inn Hotel,4112,2,0,1,7.0,1176.0,"Naama Bay, Sharm El Sheikh",0.9,3.0,Inn,Standard Double or Twin Room,Yes,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Sharm El Sheikh,Reef Oasis Beach Aqua Park Resort,9062,2,0,1,9.0,4953.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",7.2,4.0,Resort,Superior Room with Pool View,Yes,All-inclusive,"Hot tub/Jacuzzi, Free parking, Airport shuttle (free)",2026-05-09
+Sharm El Sheikh,JAZ Belvedere,12711,2,0,1,9.3,4068.0,Sharm El Sheikh,11.7,5.0,Hotel,Superior Deluxe Queen or Twin Beds Garden View,Yes,All-inclusive,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,Safir Sharm Waterfalls Resort,5660,2,0,1,9.0,2027.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",6.8,5.0,Resort,Standard Room,No,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Sharm El Sheikh,Aida Hotel Sharm El Sheikh,1329,2,0,1,6.5,904.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",6.3,2.0,Inn,Deluxe Double or Twin Room with Pool Access,No,Breakfast & dinner included,"Free parking, Spa, Restaurant",2026-05-09
+Sharm El Sheikh,Concorde El Salam Sharm El Sheikh Front Hotel,6476,2,0,1,8.8,987.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",8.8,5.0,Hotel,Standard Room with Pool View,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Rixos Sharm El Sheikh - Adults Only 18 Plus,19232,2,0,1,9.5,1638.0,"Nabq Bay, Sharm El Sheikh (Nabq Bay)",16.6,5.0,Hotel,Superior Room Twin Bed,No,All-inclusive,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,Xperience Kiroseiz Parkland,5702,2,0,1,8.9,2293.0,"Naama Bay, Sharm El Sheikh",1.5,5.0,Hotel,Standard Room,Yes,All-inclusive,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,White House Boutique Sharm,3121,2,0,1,7.5,71.0,Sharm El Sheikh,9.8,4.0,Hotel,Double Room with Shared Bathroom,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Heaven Regency,1792,2,0,1,7.7,10.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",6.4,3.0,Hotel,Double Room with Pool View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,"Sheraton Sharm Hotel, Resort, Villas & Spa",7381,2,0,1,7.8,256.0,"Garden Bay, Sharm El Sheikh (Garden Bay)",3.6,4.0,Resort,Superior King Room with Balcony and Sea View - High Floor,Yes,Breakfast included,"Free parking, Spa",2026-05-09
+Sharm El Sheikh,Pickalbatros Laguna Club Resort Sharm El Sheikh,8240,2,0,1,9.3,4078.0,"Nabq Bay, Sharm El Sheikh (Nabq Bay)",17.2,5.0,Resort,Special Offer - Deluxe Room Garden View - Egyptians & Residents only,Yes,All-inclusive,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Viva Suites Sharm El Sheikh,1898,2,0,1,6.4,139.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.3,3.0,Apartment,Double Room with Pool View,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,"Residential Villa & Chalet at Four Seasons Resort Sharm El Sheikh - Sharm El Sheikh, Egypt",17826,2,0,1,9.0,59.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",7.8,5.0,Resort,Two-Bedroom Chalet,No,Not Specified,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Sharm El Sheikh,Serenity Lodge,4007,2,0,1,7.7,1648.0,Sharm El Sheikh,9.4,3.0,Hotel,Twin Room with Sea View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Baron Resort Sharm El Sheikh,10445,2,0,1,8.6,1437.0,Sharm El Sheikh,11.0,5.0,Resort,Superior Classic Room,Yes,Breakfast & dinner included,"Hot tub/Jacuzzi, Free parking",2026-05-09
+Sharm El Sheikh,Baron Palms Adults Friendly Only 16 years plus Boutique Hotel Style,10938,2,0,1,9.4,4584.0,Sharm El Sheikh,11.0,5.0,Hotel,Superior Classic Room,Yes,All-inclusive,"Adults only, Hot tub/Jacuzzi",2026-05-09
+Sharm El Sheikh,Paradise view at Sharm Hills,7887,2,0,1,8.6,151.0,Sharm El Sheikh,12.1,4.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Sharm Resort,5551,2,0,1,7.8,2985.0,"Garden Bay, Sharm El Sheikh (Garden Bay)",3.0,4.0,Resort,Standard Double Room,No,All-inclusive,"Hot tub/Jacuzzi, Free parking, Bar",2026-05-09
+Sharm El Sheikh,Viva Sharm,1740,2,0,1,6.7,478.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.2,3.0,Hotel,Standard Double or Twin Room,Yes,Not Specified,"Free parking, Spa, Bar",2026-05-09
+Sharm El Sheikh,"Blend in Nature Eco Camp Beachfront Stay in Ras Mohamed, Sharm El Sheikh",10564,2,0,1,9.2,30.0,Sharm El Sheikh,17.7,4.0,Hotel,Tent,Yes,All-inclusive,"Free parking, 24-hour front desk",2026-05-09
+Sharm El Sheikh,Sharm Glow Villa,1740,2,0,1,8.3,20.0,Sharm El Sheikh,4.1,3.0,Apartment,One-Bedroom Superior Apartment,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Sharm El Sheikh,Club Reef Resort & Spa,5931,2,0,1,9.3,549.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",3.2,4.0,Resort,Superior Double or Twin Room with Garden View,No,All-inclusive,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Egyptian Experience Resort,3222,2,0,1,8.0,43.0,"Nabq Bay, Sharm El Sheikh (Nabq Bay)",13.7,3.0,Resort,Two-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Sharm El Sheikh,SunshineDiversClub - Sharks Bay,2056,2,0,1,9.5,4.0,"Sharks Bay, Sharm El Sheikh (Sharks Bay)",6.8,4.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Sentido Reef Oasis Aqua Park Resort,9473,2,0,1,9.3,3091.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",7.1,5.0,Resort,Superior Room with Pool View,Yes,All-inclusive,"Hot tub/Jacuzzi, Free parking, Airport shuttle (free)",2026-05-09
+Sharm El Sheikh,Aurora Oriental Resort Sharm El Sheikh,5538,2,0,1,8.0,821.0,"Nabq Bay, Sharm El Sheikh (Nabq Bay)",17.6,5.0,Resort,Standard Double Room with Garden View,No,All meals included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Luxury Sharm Hills Resort,10518,2,0,1,7.1,51.0,Sharm El Sheikh,11.9,4.0,Resort,Apartment with Pool View,Yes,Breakfast included,"Free parking, Airport shuttle (free), Spa",2026-05-09
+Sharm El Sheikh,The Grand Hotel Sharm El Sheikh,8303,2,0,1,8.8,3564.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.0,5.0,Hotel,Standard Room Garden View,No,All-inclusive,"Free parking, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Ghazala Gardens,5694,2,0,1,7.8,2403.0,"Naama Bay, Sharm El Sheikh",0.6,4.0,Hotel,Standard Room,No,All-inclusive,"Free parking, Spa, Bar",2026-05-09
+Sharm El Sheikh,Cleopatra Luxury Resort Sharm - Adults Only 16 years plus,10519,2,0,1,9.3,1528.0,"Nabq Bay, Sharm El Sheikh (Nabq Bay)",15.8,5.0,Resort,Deluxe Room Pool or Garden View,Yes,All-inclusive,"Adults only, Hot tub/Jacuzzi, Heated pool",2026-05-09
+Sharm El Sheikh,Naama Bay Hotel & Resort,6507,2,0,1,8.6,1901.0,"Naama Bay, Sharm El Sheikh",1.2,5.0,Resort,Double or Twin Garden View,Yes,Breakfast included,"Heated pool, Free parking, Spa",2026-05-09
+Sharm El Sheikh,Camel Dive Club & Boutique Hotel,5536,2,0,1,9.0,383.0,"Naama Bay, Sharm El Sheikh",0.8,4.0,Hotel,King Room with Pool View,Yes,Breakfast included,"Heated pool, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Fun & Sun Naama Waves,4414,2,0,1,9.0,612.0,Sharm El Sheikh,1.2,5.0,Hotel,Double Pool View,Yes,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Sharm El Sheikh,Coral Sea Holiday Resort & Aqua Park,9226,2,0,1,8.5,447.0,"Nabq Bay, Sharm El Sheikh (Nabq Bay)",17.6,5.0,Resort,Special Offer - Standard Room with Garden or Pool View - Egyptians and Residents Only,Yes,All-inclusive,"Free parking, Bar, Restaurant",2026-05-09
+Sharm El Sheikh,Royal Monte-Carlo Sharm Resort & SPA,16802,2,0,1,9.3,16.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.6,5.0,Resort,Royal Double or Twin Room,No,All meals included,"Adults only, Hot tub/Jacuzzi, Free parking",2026-05-09
+Sharm El Sheikh,Il Mercato Hotel & Spa,5308,2,0,1,7.1,726.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",6.2,5.0,Hotel,Standard Double Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Sharm El Sheikh,Flat 01 bed room. Sea Street. Hadaba Area.,1898,2,0,1,9.7,56.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",7.4,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Sharm El Sheikh,El Khan Sharm Hotel,1446,2,0,1,7.7,656.0,"El Hadaba, Sharm El Sheikh (El Hadaba)",5.8,3.0,Hotel,Double or Twin Room with Pool View,No,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,Nefertiti Hotel Luxor,1988,2,0,1,8.5,5987.0,"East Bank, Luxor",0.5,4.0,Hotel,Twin Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Steigenberger Resort Achti,3867,2,0,1,8.8,5150.0,Luxor,2.9,5.0,Resort,Superior King Garden View (Bangalow),Yes,Not Specified,"Heated pool, Free parking",2026-05-09
+Luxor,Family Hotel Luxor,522,2,0,1,8.3,41.0,"East Bank, Luxor",0.9,4.0,Hotel,Double Room with Shared Bathroom,Yes,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Jolie Ville Hotel & Spa Kings Island Luxor,4407,2,0,1,8.6,3902.0,"East Bank, Luxor (Nile River Luxor)",4.5,5.0,Hotel,Standard Room Gardens View,Yes,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Luxor,Aracan Eatabe Luxor Hotel,2548,2,0,1,8.6,2399.0,"East Bank, Luxor",0.6,4.0,Hotel,Double Room,No,Not Specified,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Luxor,Hilton Luxor Resort & Spa,7170,2,0,1,9.0,1050.0,"East Bank, Luxor",3.2,5.0,Resort,GUESTROOM KING BED,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking",2026-05-09
+Luxor,Pyramisa Hotel Luxor,3169,2,0,1,8.0,3011.0,Luxor,2.4,4.0,Hotel,Run of House Room,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Luxor,Saray El-Omda Hotel,4719,2,0,1,9.4,61.0,"West Bank, Luxor",4.1,4.0,Apartment,One-Bedroom Apartment with Balcony and Mountain View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,Sunset Haven Guesthouse,2241,2,0,1,8.9,9.0,"West Bank, Luxor",1.8,4.0,Hotel,Two-Bedroom House,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,Iberotel Luxor by JAZ,3396,2,0,1,8.4,2294.0,Luxor,1.6,4.0,Hotel,Standard,Yes,Breakfast included,"Bar, Restaurant",2026-05-09
+Luxor,S S Luxor Hotel,2017,2,0,1,8.2,340.0,"East Bank, Luxor",0.5,3.0,Hotel,Double or Twin Room,Yes,Not Specified,"Bar, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Luxor Oasis Guest House,1033,2,0,1,9.2,818.0,"West Bank, Luxor",1.5,4.0,Guest house,Deluxe Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,Abeer Guest House,974,2,0,1,9.5,544.0,"East Bank, Luxor",1.4,4.0,Guest house,Double Room with Shared Bathroom,Yes,Breakfast included,"Bar, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Malkata House - Boutique hotel and restaurant,7875,2,0,1,9.4,672.0,"West Bank, Luxor",5.4,4.0,Hotel,Suite with Garden View,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Sheherazade Hotel Nile Villa,1152,2,0,1,8.9,135.0,"West Bank, Luxor",1.7,4.0,Villa,Deluxe King Studio,Yes,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Luxor View Hotel,718,2,0,1,8.2,223.0,"West Bank, Luxor",3.1,3.0,Hotel,Double Room,No,Breakfast included,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,Yasmine Guest House,902,2,0,1,9.0,363.0,"West Bank, Luxor",1.7,3.0,Guest house,Deluxe Double Room,No,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Luxor,Sonesta St. George Hotel - Convention Center,4139,2,0,1,9.1,3889.0,"East Bank, Luxor",2.2,5.0,Hotel,Run of House,Yes,Not Specified,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Luxor,Bab Al Shams Palace,1750,2,0,1,9.9,54.0,"West Bank, Luxor",5.5,4.0,Hotel,Triple Room with Garden View,No,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,KR Hotel,1673,2,0,1,9.1,188.0,"West Bank, Luxor",1.8,4.0,Hotel,Double Room with Balcony,Yes,Breakfast included,"Heated pool, Free parking, Bar",2026-05-09
+Luxor,Saray El Omda - Egyptian Rural Village,4660,2,0,1,9.3,123.0,"West Bank, Luxor",4.1,4.0,Apartment,One-Bedroom Apartment with Balcony,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,Celia House,1054,2,0,1,9.5,38.0,"West Bank, Luxor",1.8,4.0,Hotel,King Studio with Sofa Bed,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,New Pola Hotel,1344,2,0,1,6.6,138.0,"East Bank, Luxor",1.8,3.0,Hotel,Budget Double Room,Yes,Not Specified,"Bar, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Queens Valley Hotel,1687,2,0,1,6.5,1457.0,"East Bank, Luxor",0.4,3.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Luxor,Pharaohs Guest House,949,2,0,1,8.8,135.0,"West Bank, Luxor",1.6,3.0,Guest house,Budget Double Room,No,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Luxor,Moonlight Home,887,2,0,1,9.5,323.0,"West Bank, Luxor",2.3,4.0,Apartment,One-Bedroom Apartment,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Luxor,Nile Panorama Hotel & Restaurant,1837,2,0,1,8.9,337.0,"West Bank, Luxor",2.4,5.0,Hotel,Deluxe King Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,Flower Of Life Hotel,1585,2,0,1,9.6,83.0,"West Bank, Luxor",2.2,3.0,Hotel,One-Bedroom House,Yes,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,King Nile Luxor,717,2,0,1,9.3,173.0,"West Bank, Luxor",2.7,4.0,Apartment,Deluxe One-Bedroom Apartment,No,Breakfast included,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,Qasr El Nil,1972,2,0,1,9.1,33.0,"West Bank, Luxor",1.6,4.0,Apartment,One-Bedroom Apartment with Terrace,No,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Eden on the Nile,3163,2,0,1,9.7,132.0,Luxor,6.7,4.0,Hotel,Twin Room with Sea View,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Luxor apartment,738,2,0,1,7.9,101.0,"West Bank, Luxor",1.8,4.0,Apartment,One-Bedroom Apartment,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Bar",2026-05-09
+Luxor,Jewel Luxor Hotel Nile View,2952,2,0,1,7.5,48.0,"East Bank, Luxor",1.3,3.0,Hotel,Double Room,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,El Juneina Villas,3918,2,0,1,9.5,94.0,"West Bank, Luxor",5.3,5.0,Villa,Cleopatra Villa with Garden View,No,Breakfast included,"Free parking, Airport shuttle (free), Bar",2026-05-09
+Luxor,Amenti House - Private Villa & Retreat Center,2636,2,0,1,9.5,106.0,"West Bank, Luxor",1.7,4.0,Apartment,One-Bedroom Apartment with Pool View,Yes,Breakfast included,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,Eyaru Palace Nile View,1429,2,0,1,8.6,155.0,Luxor,14.0,3.0,Hotel,Double Room with Sea View,No,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,New Saint Catherine Hotel,1054,2,0,1,7.2,464.0,"East Bank, Luxor",0.25,2.0,Hotel,Budget Double or Twin Room,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,White Gorf Hotel,1972,2,0,1,9.2,74.0,"West Bank, Luxor",3.3,4.0,Apartment,One-Bedroom Apartment with Pool View,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Boutique hotel Neferu Stay,5762,2,0,1,9.5,63.0,"West Bank, Luxor",1.7,4.0,Hotel,Double Room,No,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Luxor,Eldeak Hotel Apartments,1729,2,0,1,9.2,72.0,"West Bank, Luxor",1.5,4.0,Apartment,Two-Bedroom Studio Apartment,Yes,Breakfast included,"Free parking, Airport shuttle (free), Restaurant",2026-05-09
+Luxor,Luxor Villa Hatshepsut,1089,2,0,1,9.3,225.0,"West Bank, Luxor",4.3,3.0,Villa,Double or Twin Room with Bathroom,Yes,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Al Mansi Luxury Retreat 1,2001,2,0,1,9.5,41.0,"West Bank, Luxor",1.9,4.0,Hotel,Deluxe Double Studio,Yes,Breakfast included,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,Eye of Horus House,1582,2,0,1,8.0,122.0,"East Bank, Luxor",1.8,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Luxor,Tasneem Palace,928,2,0,1,9.7,236.0,"West Bank, Luxor",1.8,4.0,Apartment,Apartment - Ground Floor,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,Dar Lina Guesthouse Luxor,3370,2,0,1,9.5,75.0,"West Bank, Luxor",1.8,3.0,Hotel,Double Room with Balcony,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Luxor,Happiness Guest House,1582,2,0,1,9.2,215.0,"West Bank, Luxor",1.7,4.0,Guest house,Deluxe Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,Jewel Howard Carter Hotel,1633,2,0,1,9.0,620.0,"West Bank, Luxor",3.0,4.0,Hotel,Superior Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Bar, Restaurant",2026-05-09
+Luxor,Blue Nile House,1921,2,0,1,9.3,499.0,"West Bank, Luxor",2.8,4.0,Apartment,One-Bedroom Apartment,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Golden Rose Guesthouse,474,2,0,1,9.5,75.0,"West Bank, Luxor",2.3,4.0,Hotel,Triple Room with Shared Bathroom,Yes,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Ramla Palace House,2079,2,0,1,9.8,34.0,"West Bank, Luxor",1.5,4.0,Apartment,Two-Bedroom Apartment with Terrace,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Winter House,2330,2,0,1,10.0,30.0,"East Bank, Luxor",1.3,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Morning Star Apartment,1300,2,0,1,8.7,82.0,"West Bank, Luxor",1.5,4.0,Apartment,Two-Bedroom Apartment with Balcony,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Luxor,Grand Square Hostel Luxor,472,2,0,1,8.2,486.0,"East Bank, Luxor",1.0,4.0,Hostel,Double or Twin Room with Shared Bathroom,Yes,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Rezeiky Hotel & Camp 您在盧克索的第二個家,1054,2,0,1,7.9,1890.0,"East Bank, Luxor",1.0,3.0,Hotel,Honeymoon Room,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Luxor,Villa Desert Rose,1845,2,0,1,9.0,117.0,"West Bank, Luxor",2.4,3.0,Apartment,Superior Apartment,Yes,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Luxor hotel Bella Vista Apartments and Hotel,717,2,0,1,8.2,157.0,"West Bank, Luxor",1.7,4.0,Apartment,Studio Apartment,Yes,Not Specified,"Restaurant, 24-hour front desk",2026-05-09
+Luxor,Villa Diletta Luxor,896,2,0,1,9.5,160.0,"West Bank, Luxor",1.6,4.0,Apartment,Deluxe Apartment with Garden,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Luxor Old Nile Hotel,712,2,0,1,8.9,419.0,"West Bank, Luxor",1.6,4.0,Hotel,Deluxe Double Room,No,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Luxor,New Memnon Hotel,2689,2,0,1,9.4,761.0,"West Bank, Luxor",4.1,3.0,Hotel,Double Room with Garden View,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Luxor,signature house Luxor,1285,2,0,1,8.0,41.0,"East Bank, Luxor",2.3,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Luxor,Villa Ramses,1993,2,0,1,9.1,20.0,"West Bank, Luxor",1.7,4.0,Villa,Deluxe Double Room,No,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Luxor,Nour House,1582,2,0,1,9.5,55.0,"West Bank, Luxor",3.2,4.0,Hotel,Studio with Pool View,Yes,Breakfast included,Free Wifi,2026-05-09
+Luxor,Blue Lotus House,633,2,0,1,8.3,87.0,"West Bank, Luxor",1.9,3.0,Hotel,Studio,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Luxor,House of Hathor,7644,2,0,1,8.9,31.0,Luxor,16.5,4.0,Hotel,Five-Bedroom House,No,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Luxor,Toutankhamon,2610,2,0,1,9.3,25.0,"West Bank, Luxor",1.3,4.0,Hotel,Double Room with Private Bathroom,No,Not Specified,Free Wifi,2026-05-09
+Luxor,Nile Cruises 5 Stars From From Aswan 03 Nights -From Luxor 04 Nights,48017,2,0,1,8.6,151.0,"East Bank, Luxor",1.3,5.0,Inn,Budget Double Room,Yes,All meals included,"Heated pool, Airport shuttle (free), Spa",2026-05-09
+Luxor,Luxor flats and apartments,1561,2,0,1,9.1,13.0,"East Bank, Luxor",3.1,3.0,Apartment,Two-Bedroom Apartment with Balcony,Yes,Breakfast included,Free Wifi,2026-05-09
+Luxor,Home of ISIS,902,2,0,1,9.9,74.0,"West Bank, Luxor",1.8,3.0,Hotel,Deluxe Double or Twin Room with Balcony,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,M/Y Alexander The Great Nile Cruise - 4 Nights Every Monday From Luxor - 3 Nights Every Friday from Aswan,32555,2,0,1,7.1,23.0,"East Bank, Luxor",6.7,5.0,Inn,Suite with River View without Sightseeing,No,All meals included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Luxor,Lotus Luxor Hotel,2911,2,0,1,8.3,1386.0,"East Bank, Luxor (Nile River Luxor)",2.2,4.0,Hotel,Standard Twin Room Nile View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Luxor,Venus Hotel Luxor 日本人 大歓迎,1306,2,0,1,7.2,803.0,"East Bank, Luxor",0.35,4.0,Hotel,Double or Twin Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Beit Al Madina,2636,2,0,1,9.8,43.0,"West Bank, Luxor",4.3,4.0,Hotel,Deluxe Twin Room,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Luxor,Al Moudira Hotel,16002,2,0,1,9.6,557.0,Luxor,9.6,5.0,Hotel,Deluxe Suite Double or Twin Room,Yes,Not Specified,"Heated pool, Free parking, Spa",2026-05-09
+Luxor,Bob Marley Peace hotel luxor,949,2,0,1,8.9,777.0,"East Bank, Luxor",1.0,2.0,Hotel,Double Room with Private Bathroom,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Luxor,Tara Apartments,1292,2,0,1,9.2,180.0,"West Bank, Luxor",1.4,4.0,Apartment,Two-Bedroom Apartment with Pool View,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Aswan,Pyramisa Island Hotel Aswan,4492,2,0,1,8.8,3015.0,Aswan,2.1,5.0,Hotel,Standard Double Room Garden View,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Aswan,ASWAN NILE PALACE (swimming pool-rooftop-Nile view),1634,2,0,1,8.7,1332.0,Aswan,2.6,4.0,Hotel,Double or Twin Room with Private Bathroom,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Aswan,Basma Hotel Aswan,5128,2,0,1,8.4,1290.0,Aswan,1.7,4.0,Hotel,Deluxe Double or Twin Room with City View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Pajama Hostel Nile View,1054,2,0,1,9.2,175.0,Aswan,0.45,4.0,Hostel,4-Bed Male Dormitory Room,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Aswan,Kato Dool Wellness Resort,3822,2,0,1,9.1,707.0,Aswan,4.0,4.0,Resort,Wellness Room Nile View,No,Not Specified,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Aswan,Aswan Plaza Hotel,3511,2,0,1,8.1,849.0,Aswan,0.7,4.0,Hotel,Standard Twin Room,Yes,Not Specified,"Restaurant, Free Wifi",2026-05-09
+Aswan,Obelisk Nile Hotel Aswan,3995,2,0,1,8.6,1850.0,Aswan,0.25,3.0,Hotel,Standard Room with Garden View,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Aswan,Hapi Hotel,2595,2,0,1,7.4,1239.0,Aswan,0.2,4.0,Hotel,Superior King Room,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Keylany Hotel Aswan,1307,2,0,1,8.5,49.0,Aswan,0.2,4.0,Hotel,Double Room,Yes,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Zena Toma Nubian Guest House,805,2,0,1,9.0,53.0,Aswan,5.2,4.0,Guest house,Studio,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Bar",2026-05-09
+Aswan,Nebro Nubian Guest House - Adults Only,1729,2,0,1,9.6,264.0,Aswan,4.8,3.0,Guest house,Standard Twin Room,No,Breakfast included,"Adults only, Free parking, Restaurant",2026-05-09
+Aswan,Crystala guest house,1582,2,0,1,9.7,403.0,Aswan,0.7,3.0,Guest house,Double Room with Private Bathroom,Yes,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Aswan,Benben by Dhara Hotels - Adults Only,8962,2,0,1,9.2,695.0,Aswan,8.3,4.0,Hotel,Superior Room,Yes,Breakfast included,"Adults only, Hot tub/Jacuzzi, Spa",2026-05-09
+Aswan,The Mango Guest House,1674,2,0,1,9.4,1185.0,Aswan,0.9,4.0,Guest house,Double Room with Private Bathroom,No,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Tiba Hotel,1008,2,0,1,6.7,150.0,Aswan,1.6,2.0,Hotel,Superior Double or Twin Room,Yes,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,Nala Narty Nubian House & Organic Farm,5402,2,0,1,9.4,356.0,Aswan,4.2,4.0,Hotel,Double Room,No,Breakfast included,"Restaurant, 24-hour front desk",2026-05-09
+Aswan,Philae Hotel Aswan,3137,2,0,1,7.5,823.0,Aswan,0.4,4.0,Hotel,Deluxe Double or Twin Room with River View,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,Kana Kato,1845,2,0,1,9.1,853.0,Aswan,0.9,4.0,Hotel,Double Room with Balcony and Sea View,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Aswan,Bakar Nubian Guest House,1107,2,0,1,9.4,104.0,Aswan,1.1,4.0,Guest house,Double Room with Private Bathroom,Yes,Breakfast included,"Free parking, Bar, Free Wifi",2026-05-09
+Aswan,Nubian Popeye - Roof top - Nile View,932,2,0,1,8.5,336.0,Aswan,6.0,4.0,Hotel,Double or Twin Room with Private External Bathroom,Yes,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,La Terrace,3427,2,0,1,9.7,807.0,Aswan,0.8,4.0,Hotel,Deluxe Queen Studio,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Habibi Nubian Guest House-Nubian Hospitality,1423,2,0,1,9.5,197.0,Aswan,1.9,4.0,Guest house,Double Room with Private External Bathroom,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,El-amin Guest House,1459,2,0,1,8.9,291.0,Aswan,0.5,4.0,Guest house,Double Room with Shared Toilet,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,Palm Guest House,1582,2,0,1,9.1,186.0,Aswan,1.3,3.0,Guest house,Budget Double Room,Yes,Breakfast included,Free Wifi,2026-05-09
+Aswan,Nuba Nile Hotel,3701,2,0,1,8.2,547.0,Aswan,1.2,3.0,Hotel,Superior Twin Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,DoroKa Nubian House,2591,2,0,1,9.2,512.0,Aswan,4.6,4.0,Hotel,Superior Triple Room with Sea View,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Baba Dool,1856,2,0,1,9.2,331.0,Aswan,0.8,3.0,Hotel,Double or Twin Room with Sea View,No,Breakfast included,"Restaurant, Free Wifi",2026-05-09
+Aswan,Onaty Ka Guest House,1653,2,0,1,9.2,205.0,Aswan,4.5,4.0,Guest house,Double Room with Private Bathroom,No,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Fenti Nubian Resort,2372,2,0,1,8.0,545.0,Aswan,5.8,3.0,Resort,Standard Double or Twin Room,No,Breakfast included,"Adults only, Free parking, Airport shuttle (free)",2026-05-09
+Aswan,Queen House,1318,2,0,1,9.1,321.0,Aswan,1.3,3.0,Hotel,Twin Room with Private Bathroom,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Nuba Dool,1318,2,0,1,9.1,406.0,Aswan,1.1,4.0,Hotel,Double Room with Private Bathroom,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,JJ Guesthouse,1582,2,0,1,9.4,408.0,Aswan,1.0,3.0,Hotel,Standard Double or Twin Room,Yes,Breakfast included,Free Wifi,2026-05-09
+Aswan,Seko Kato Nile View Hostel,474,2,0,1,8.7,455.0,Aswan,1.3,4.0,Hostel,Double Room 2 with garden view,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Bob Marley Guest House,1362,2,0,1,9.2,583.0,Aswan,0.6,4.0,Guest house,Double or Twin Room with Shared Bathroom,No,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Aswan,Meshra Katto,1476,2,0,1,9.2,534.0,Aswan,1.3,3.0,Hotel,Deluxe Double Room with Side Sea View,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Aswan,Artika Wadi Kiki Hotel,3193,2,0,1,9.1,592.0,Aswan,4.9,4.0,Hotel,Double Room with Terrace,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,ASSINGAR Island,3132,2,0,1,9.5,9.0,Aswan,4.7,4.0,Hotel,Double Room,No,Breakfast included,"Restaurant, 24-hour front desk",2026-05-09
+Aswan,Masa Nubian House,1634,2,0,1,9.8,137.0,Aswan,1.0,3.0,Hotel,Deluxe Double or Twin Room with Sea View,Yes,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Aswan,The Zen Wellness Resort,5475,2,0,1,8.4,313.0,Aswan,11.2,5.0,Resort,Duo Retreat Garden View Family Room,Yes,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Aswan,Anakato Nubian Experience,5377,2,0,1,8.2,70.0,Aswan,4.5,4.0,Hotel,Anakato Nile View Room- Anakato Old House Building,No,Not Specified,"Bar, Restaurant",2026-05-09
+Aswan,Awi Guest House,2003,2,0,1,9.3,196.0,Aswan,0.8,4.0,Guest house,Studio with Sea View,Yes,Breakfast included,"Bar, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Eka- Guesthouse,1556,2,0,1,9.2,144.0,Aswan,5.4,4.0,Hotel,King Room,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Maghrabi's Guest house,1681,2,0,1,9.5,387.0,Aswan,1.7,3.0,Guest house,Double Room with Garden View,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,"Old Cataract, Aswan - Operated by Mandarin Oriental",24884,2,0,1,9.4,518.0,Aswan,1.3,5.0,Hotel,Palace Garden View Room,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool",2026-05-09
+Aswan,malindy KA nubian houseماليندى كا,767,2,0,1,9.8,161.0,Aswan,5.3,3.0,Hotel,Twin Room with Private Bathroom,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,Aswan City Center Guest House,664,2,0,1,8.6,900.0,Aswan,0.2,4.0,Guest house,Double Room,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Kato Waidi Nubian House,2402,2,0,1,8.8,692.0,Aswan,4.8,4.0,Hotel,Budget Double or Twin Room,Yes,Breakfast included,"Free parking, Restaurant",2026-05-09
+Aswan,Nubian Life Nile View,580,2,0,1,8.8,62.0,Aswan,1.4,4.0,Hotel,Family Junior Suite,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Kendaka Nubian House,2109,2,0,1,9.1,305.0,Aswan,4.5,2.0,Hotel,King Room with Balcony and Nile View,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Crystala 2 guest house,2109,2,0,1,10.0,41.0,Aswan,0.8,3.0,Guest house,Double or Twin Room with Sea View,Yes,Breakfast included,Free Wifi,2026-05-09
+Aswan,Bonita Chillhouse,1422,2,0,1,8.8,198.0,Aswan,1.6,4.0,Hotel,Double Room with Private Bathroom,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Aswan,hooly nubian,1703,2,0,1,9.2,186.0,Aswan,1.2,3.0,Hotel,Economy Double Room,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Aswan,MaMa Africa Nubian Guest House,1845,2,0,1,9.9,65.0,Aswan,0.9,3.0,Guest house,Deluxe Double or Twin Room with Sea View,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Aswan,Nubian Kulih house,864,2,0,1,7.3,155.0,Aswan,6.1,4.0,Hotel,Standard Twin Room,No,Not Specified,"Restaurant, 24-hour front desk",2026-05-09
+Aswan,Nile Hotel,3058,2,0,1,7.6,87.0,Aswan,0.8,4.0,Hotel,Double Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Restaurant",2026-05-09
+Aswan,Wanees Hostel,1054,2,0,1,8.7,573.0,Aswan,0.04,4.0,Hostel,Economy Double Room,Yes,Not Specified,Free Wifi,2026-05-09
+Aswan,david hostel,350,2,0,1,8.2,1050.0,Aswan,3.3,4.0,Hostel,Classic Quadruple Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,Fadlos Anay Nubian Guesthouse فضلوس أناي,1805,2,0,1,8.4,138.0,Aswan,5.0,3.0,Hotel,Triple Room with Bathroom,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,NUB INN,4105,2,0,1,8.9,253.0,Aswan,4.5,4.0,Inn,Economy Double Room,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Villa Swenet,2636,2,0,1,9.5,94.0,Aswan,0.8,3.0,Villa,Double Room with Lake View,Yes,Not Specified,Free Wifi,2026-05-09
+Aswan,Eshyan Guest House,1550,2,0,1,9.9,83.0,Aswan,1.1,3.0,Guest house,Double Room with Private External Bathroom,Yes,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Casa Nile View rooms - Nubian House -by kerma hospitality,3454,2,0,1,9.1,27.0,Aswan,4.6,3.0,Hotel,Deluxe Double Room with Balcony,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Aswan,Lawanda Nubian B&B,1213,2,0,1,9.3,240.0,Aswan,4.9,4.0,Hotel,Double Room with Private Bathroom,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,El Prince Guesthouse,1054,2,0,1,8.0,206.0,Aswan,0.9,4.0,Hotel,Deluxe Double or Twin Room with River View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Nubian Farm Aswan,3025,2,0,1,7.8,104.0,Aswan,2.9,4.0,Hotel,Three-Bedroom Chalet,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Nubian Soul Guest Houses,1281,2,0,1,9.5,205.0,Aswan,1.2,3.0,Guest house,Twin Room with Bathroom,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Aswan,Nuba Narty,2336,2,0,1,8.9,83.0,Aswan,2.2,3.0,Hotel,Deluxe Twin Room,No,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Aswan,Hadouta Masreya Nubian Guest House,2163,2,0,1,8.3,10.0,Aswan,5.0,3.0,Guest house,Small Twin Room,No,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,New El Amin Guesthouse,1068,2,0,1,9.3,11.0,Aswan,0.8,3.0,Hotel,Double Room with Balcony,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Aswan,sunset guest house,1065,2,0,1,9.7,93.0,Aswan,1.3,3.0,Guest house,Double Room with Balcony (3 Adults),Yes,Breakfast included,Free Wifi,2026-05-09
+Aswan,FADL Kato,1582,2,0,1,9.4,299.0,Aswan,1.1,4.0,Hotel,Classic Triple Room,Yes,Breakfast included,Free Wifi,2026-05-09
+Aswan,Blue Lotus Nile Suites Hotel Aswan,4093,2,0,1,7.9,253.0,Aswan,2.6,3.0,Hotel,Double or Twin Room,No,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Aswan,Ekadolli Nubian house- by kerma hospitality,1255,2,0,1,9.3,55.0,Aswan,5.4,4.0,Hotel,Standard King Room,No,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Aswan,Nile View Guest House,1922,2,0,1,9.6,436.0,Aswan,1.2,3.0,Guest house,Triple Room,Yes,Breakfast included,"Bar, Free Wifi",2026-05-09
+Aswan,Nubian Kingdom Aragheed House,2109,2,0,1,9.8,260.0,Aswan,1.8,4.0,Hotel,Classic Triple Room,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,Hostmark Blue Beach Hotel,4178,2,0,1,9.1,445.0,Marsa Matruh,1.6,4.0,Hotel,Superior Double or Twin Room,Yes,Breakfast included,"Spa, Bar, Restaurant",2026-05-09
+Marsa Matruh,Delmar Hotel Matrouh,2636,2,0,1,7.9,558.0,Marsa Matruh,0.02,4.0,Hotel,Economy Twin Room,Yes,Not Specified,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Marsa Matruh,Safir Marsa Matrouh Resort,4175,2,0,1,8.6,573.0,Marsa Matruh,4.0,4.0,Resort,Standard Twin Room,No,Not Specified,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Marsa Matruh,Halla Matrouh Premium,1568,2,0,1,8.0,60.0,Marsa Matruh,0.8,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,24-hour front desk,2026-05-09
+Marsa Matruh,بورتو مطروح أكوا بارك,3385,2,0,1,9.1,45.0,Marsa Matruh,6.6,5.0,Hotel,Chalet,Yes,Not Specified,"Free parking, 24-hour front desk",2026-05-09
+Marsa Matruh,"JAZ Neo Almazino, Almaza Bay",11769,2,0,1,7.0,82.0,"Almaza Bay, Marsa Matruh",34.2,4.0,Hotel,Superior Twin Room with Garden View,Yes,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Marsa Matruh,Cleopatra Sidi Heneish,14499,2,0,1,9.5,562.0,Marsa Matruh,37.9,5.0,Hotel,Deluxe Double or Twin Room with Garden View,Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Marsa Matruh,Beau Site Belle Vue Hotel,6975,2,0,1,8.7,142.0,Marsa Matruh,1.8,4.0,Inn,Double or Twin Room with City View,Yes,Breakfast & dinner included,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Marsa Matruh,Beau Site Hotel,5022,2,0,1,8.1,127.0,Marsa Matruh,1.8,3.0,Inn,Budget Double Room,Yes,Breakfast & dinner included,"Bar, Restaurant, 24-hour front desk",2026-05-09
+Marsa Matruh,Porto Matrouh - la vista,5694,2,0,1,8.6,151.0,Marsa Matruh,4.6,4.0,Apartment,One-Bedroom Apartment with Pool View,No,Not Specified,"Free parking, Airport shuttle (free), Restaurant",2026-05-09
+Marsa Matruh,"JAZ Tamerina, Almaza Bay",15899,2,0,1,8.6,299.0,"Almaza Bay, Marsa Matruh",34.7,5.0,Hotel,"Superior, Queen or Twin Bed, Garden or Pool View",Yes,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Marsa Matruh,Golden Porto Matruh Families only,1845,2,0,1,7.2,32.0,Marsa Matruh,6.6,3.0,Apartment,Apartment - Ground Floor,Yes,Not Specified,"Free parking, 24-hour front desk",2026-05-09
+Marsa Matruh,"JAZ Almaza Beach Resort, Almaza Bay",19863,2,0,1,8.3,642.0,"Almaza Bay, Marsa Matruh",34.8,5.0,Resort,"Superior, Queen or Twin Bed, Pool View",Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Bar",2026-05-09
+Marsa Matruh,Juliana Resort North coast,3005,2,0,1,8.6,151.0,Marsa Matruh,0.02,4.0,Resort,Two-Bedroom Apartment,Yes,Not Specified,Free parking,2026-05-09
+Marsa Matruh,"JAZ Oriental, Almaza Bay",19863,2,0,1,9.2,83.0,"Almaza Bay, Marsa Matruh",34.7,5.0,Hotel,"Superior, Queen or Twin Bed, Pool View",Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking",2026-05-09
+Marsa Matruh,Porto Matrouh Majestic,2733,2,0,1,9.5,2.0,Marsa Matruh,6.6,4.0,Hotel,Superior Chalet,No,Breakfast included,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,Porto Matrouh Elabd Family,3326,2,0,1,9.6,5.0,Marsa Matruh,6.6,3.0,Hotel,One-Bedroom Chalet,Yes,Not Specified,Free parking,2026-05-09
+Marsa Matruh,Hotel 59,13549,2,0,1,8.7,11.0,Marsa Matruh,0.02,5.0,Hotel,Double Room with City View,No,All-inclusive,"Hot tub/Jacuzzi, Spa, Bar",2026-05-09
+Marsa Matruh,Halla Matrouh Sea View,1845,2,0,1,8.0,302.0,Marsa Matruh,0.8,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Free Wifi,2026-05-09
+Marsa Matruh,Makai BY Dhara Hotels,19770,2,0,1,8.5,84.0,Marsa Matruh,74.6,5.0,Hotel,Deluxe Twin Room with Sea View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Marsa Matruh,بورتو مطروح - الساحره,2593,2,0,1,7.0,12.0,Marsa Matruh,6.7,5.0,Hotel,Studio with Pool View,No,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,Asmaa Rental Chalets Porto Matrouh for families,3025,2,0,1,8.4,19.0,Marsa Matruh,6.6,4.0,Hotel,One-Bedroom Chalet,No,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,شاليهات بورتو مطروح فيو بحر Porto Matrouh Sea View Families Only,3490,2,0,1,8.5,108.0,Marsa Matruh,6.5,4.0,Hotel,Studio with Garden View,No,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,Fouka bay luxurious chalet,10756,2,0,1,10.0,11.0,Marsa Matruh,73.2,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,Halla Matrouh Al Bosphorus,1524,2,0,1,7.8,159.0,Marsa Matruh,0.9,3.0,Apartment,Two-Bedroom Apartment with City View,Yes,Not Specified,24-hour front desk,2026-05-09
+Marsa Matruh,"JAZ Viva Almaza Blu, Almaza Bay",15692,2,0,1,8.7,29.0,"Almaza Bay, Marsa Matruh",35.1,5.0,Hotel,"Superior, Queen or Twin, Garden View",Yes,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Marsa Matruh,بورتو مطروح - فاكيشن تايم,2768,2,0,1,9.9,7.0,Marsa Matruh,6.6,5.0,Hotel,Chalet,Yes,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,Tent,1371,2,0,1,8.3,58.0,Marsa Matruh,0.4,4.0,Hotel,Budget Double Room,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,Caesar Bay Resort,18932,2,0,1,9.2,68.0,Marsa Matruh,80.0,5.0,Resort,Superior Twin Room,No,Breakfast & dinner included,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Marsa Matruh,See you soon Matrouh 1,2366,2,0,1,8.2,36.0,Marsa Matruh,1.0,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,See you soon Rommel Matrouh,2491,2,0,1,8.8,26.0,Marsa Matruh,1.3,4.0,Apartment,Three-Bedroom Apartment with Sea View,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,porto matrouh-original,2175,2,0,1,6.5,10.0,Marsa Matruh,6.6,5.0,Hotel,Chalet,Yes,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,Gewan White Beach Resort-New Alamein,12126,2,0,1,7.6,205.0,Marsa Matruh,6.0,5.0,Resort,Deluxe Room Lake View,Yes,Breakfast included,"Hot tub/Jacuzzi, Bar, Restaurant",2026-05-09
+Marsa Matruh,See you soon blue Beach,1234,2,0,1,8.3,20.0,Marsa Matruh,16.3,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,شاليه مكيف بقريه الأندلسيه,2273,2,0,1,8.0,5.0,Marsa Matruh,5.4,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,بيت العز للشقق الفندقية - علم الروم Bet Elezz Apartments-Alam Elrom,2003,2,0,1,8.9,43.0,Marsa Matruh,10.1,4.0,Apartment,Two-Bedroom Apartment with Terrace and Sea View,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,Amwaj Fayrouz,2479,2,0,1,8.6,151.0,Marsa Matruh,3.0,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Marsa Matruh,شالية قرية اصالة بلو باى مرسي مطروح,1503,2,0,1,6.9,7.0,Marsa Matruh,3.8,3.0,Apartment,Three-Bedroom Apartment,No,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,Sea Front Zen Chalet Families Only,8013,2,0,1,9.8,8.0,Marsa Matruh,3.1,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,بورتو مطروح,3943,2,0,1,6.9,12.0,Marsa Matruh,6.9,4.0,Hotel,Chalet,Yes,Not Specified,"Hot tub/Jacuzzi, Restaurant",2026-05-09
+Marsa Matruh,شاليه رائع مجدد للعائلات فقط باندلسيه مطروح,1845,2,0,1,9.4,7.0,Marsa Matruh,4.8,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free parking, Spa, Restaurant",2026-05-09
+Marsa Matruh,مرسى مطروح - سورتلاج Sortilag 2 family only,5008,2,0,1,8.7,19.0,Marsa Matruh,3.9,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,First Row Sea-Front Chalets Media Village,4697,2,0,1,8.1,8.0,Marsa Matruh,17.5,4.0,Villa,Chalet,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,Triumph White Sands Hotel,7117,2,0,1,8.5,564.0,Marsa Matruh,1.8,4.0,Hotel,Deluxe Room - Twin beds - City View,No,Breakfast included,"Hot tub/Jacuzzi, Spa, Restaurant",2026-05-09
+Marsa Matruh,Jewel Beach Matrouh Hotel,3585,2,0,1,5.6,152.0,Marsa Matruh,1.4,5.0,Hotel,Budget Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Spa, Restaurant",2026-05-09
+Marsa Matruh,شاليه بقرية القصر السياحية للايجار ب مطروح إمتداد شاطيء الأبيض حمام السباحة في القرية به صيانه,1850,2,0,1,7.9,15.0,Marsa Matruh,8.2,4.0,Hotel,Two-Bedroom Chalet,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,برج الصقور,712,2,0,1,8.6,151.0,Marsa Matruh,0.35,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Marsa Matruh,MASR Chalet - Porto Matrouh,2372,2,0,1,9.0,17.0,Marsa Matruh,6.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,"Sakhra Hotel & Spa, Almaza Bay",27833,2,0,1,8.4,48.0,"Almaza Bay, Marsa Matruh",33.9,5.0,Hotel,"Deluxe, King or Twin Bed, Pool View",Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Marsa Matruh,El Obayed Apartments Armed Forces,3669,2,0,1,6.0,70.0,Marsa Matruh,16.8,4.0,Apartment,Two-Bedroom Apartment with Sea View,No,Not Specified,Restaurant,2026-05-09
+Marsa Matruh,"Kynd 01 - Ras El Hikma, GAIA Compound",10913,2,0,1,9.3,106.0,Marsa Matruh,21.1,4.0,Hotel,Double or Twin Room with Partial Sea View,No,Breakfast included,"Adults only, Free parking, Bar",2026-05-09
+Marsa Matruh,Porto Matrouh,3163,2,0,1,8.6,151.0,Marsa Matruh,6.6,4.0,Hotel,Chalet,Yes,Not Specified,Free parking,2026-05-09
+Marsa Matruh,Porto Matrouh Beach Resort,3796,2,0,1,6.3,236.0,Marsa Matruh,7.0,5.0,Resort,Patio Suite,No,Breakfast included,"Restaurant, 24-hour front desk",2026-05-09
+Marsa Matruh,Doma Hotel Matrouh,1951,2,0,1,6.1,29.0,Marsa Matruh,2.6,3.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Marsa Matruh,PORTO MATROUH-GREEN Beach family's only,3137,2,0,1,4.9,40.0,Marsa Matruh,6.6,5.0,Hotel,Studio with Pool View,Yes,Not Specified,"Free parking, Restaurant",2026-05-09
+Marsa Matruh,شقه الهاني,1246,2,0,1,7.9,24.0,Marsa Matruh,0.7,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,لؤلؤه الفيروز,605,2,0,1,9.0,1.0,Marsa Matruh,2.5,4.0,Apartment,Two-Bedroom Family Apartment,No,Not Specified,Not Available,2026-05-09
+Marsa Matruh,فندق الحسيني,21088,2,0,1,8.6,151.0,Marsa Matruh,0.2,4.0,Hotel,Double Room with Private Bathroom,Yes,Not Specified,Not Available,2026-05-09
+Marsa Matruh,Marsa matroh sortelag resort,1518,2,0,1,8.6,151.0,Marsa Matruh,1.2,4.0,Resort,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Marsa Matruh,سانتورين الساحل الشمالي,1054,2,0,1,8.6,151.0,Marsa Matruh,0.1,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Free parking,2026-05-09
+Marsa Matruh,أجمل شاليه فى بورتو مطروح للعائلات فقط,3428,2,0,1,9.1,11.0,Marsa Matruh,0.02,4.0,Hotel,Studio with Sea View,No,Not Specified,"Free parking, 24-hour front desk",2026-05-09
+Marsa Matruh,بورتو مطروح - Porto Matrouh,2610,2,0,1,8.6,151.0,Marsa Matruh,6.6,4.0,Hotel,Double Room with Pool View,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,للإيجار في مطروح شاليه داخل قرية سياحية شاليه شايف البحر امتداد شاطئ الابيض البحر متاح لكن حمام السباحة هذا الصيف به أعمال صيانه 130,851,2,0,1,8.3,38.0,Marsa Matruh,9.2,3.0,Hotel,Two-Bedroom Chalet,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,Almaza bay 3 bedroom superior chalet beach town,30050,2,0,1,8.6,151.0,"Almaza Bay, Marsa Matruh",35.0,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,"Bet Elezz-Alam Elrom Apartments, ""Lumiere Twelve""",1411,2,0,1,10.0,1.0,Marsa Matruh,10.1,3.0,Apartment,Two-Bedroom Apartment with City View,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,Jewel Inn Matrouh,4982,2,0,1,8.6,151.0,Marsa Matruh,1.9,4.0,Apartment,One-Bedroom Apartment with Sea View,No,Breakfast included,Free parking,2026-05-09
+Marsa Matruh,بورتوا مطروح,2509,2,0,1,8.6,151.0,Marsa Matruh,6.6,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Marsa Matruh,"Bet Elezz-Alam Elrom Apartments, ""Favorite Destination 44""",1815,2,0,1,8.6,151.0,Marsa Matruh,10.1,3.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,Business Tower,2372,2,0,1,9.9,7.0,Marsa Matruh,1.0,4.0,Hotel,Double Room with Sea View,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,Luxury units for rent on the sea Marsa Matrouh,6465,2,0,1,9.4,14.0,Marsa Matruh,0.5,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Free Wifi,2026-05-09
+Marsa Matruh,Chalet in porto matrouh,2221,2,0,1,8.6,151.0,Marsa Matruh,6.6,4.0,Hotel,One-Bedroom Chalet,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,قريه الاندلسيه,1708,2,0,1,8.6,151.0,Marsa Matruh,4.6,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,شاليهات مراسي للتنمية السياحيه,807,2,0,1,8.6,151.0,Marsa Matruh,5.2,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Marsa Matruh,villa on the sea quiet place,3843,2,0,1,8.6,151.0,Marsa Matruh,3.8,4.0,Villa,Three-Bedroom Villa,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Marsa Matruh,Porto Matrouh VIP,3690,2,0,1,8.6,151.0,Marsa Matruh,6.6,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Free parking,2026-05-09
+Dahab,Penguin Village Dahab,2372,2,0,1,9.2,561.0,Dahab,0.6,3.0,Villa,Standard Double back view (No Balcony),Yes,Not Specified,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Coral Reefs Hotel Dahab,1153,2,0,1,8.4,541.0,Dahab,0.25,4.0,Hotel,Deluxe Triple Room,No,Not Specified,"Bar, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Villa 22,1613,2,0,1,8.2,264.0,Dahab,0.4,4.0,Villa,Deluxe Double or Twin Room,Yes,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Amanda beach hotel,961,2,0,1,7.3,168.0,Dahab,0.9,4.0,Hotel,Standard Double Room,Yes,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Dolphin Camp,1513,2,0,1,8.6,151.0,Dahab,0.4,4.0,Hotel,Bungalow,No,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Nomads Hostel,1440,2,0,1,8.9,270.0,Dahab,0.35,4.0,Hostel,Double Room with Shared Bathroom,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Dahab,The Bedouin Moon,2330,2,0,1,9.1,826.0,Dahab,2.4,3.0,Hotel,Twin Room with Mountain View,Yes,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Dahab,Dahab dahab,1708,2,0,1,8.6,151.0,Dahab,1.0,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Free Wifi,2026-05-09
+Dahab,Tropitel Dahab Oasis,4401,2,0,1,9.4,2949.0,Dahab,6.2,4.0,Inn,Standard Room with Garden View,Yes,Breakfast & dinner included,"Heated pool, Free parking",2026-05-09
+Dahab,Elite Residence Dahab,2910,2,0,1,8.8,572.0,Dahab,0.8,5.0,Apartment,Standard Twin Room,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Restaurant",2026-05-09
+Dahab,The Castle Hotel & studios,1927,2,0,1,8.1,94.0,Dahab,0.7,4.0,Hotel,Queen Room with Balcony,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Retac Qunay Dahab Resort & SPA,5299,2,0,1,8.7,1668.0,Dahab,4.7,5.0,Resort,Standard Room Partial Sea View with Balcony,No,Not Specified,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Dahab,Blue Residence Dahab,1837,2,0,1,8.8,147.0,Dahab,0.8,4.0,Apartment,Double Room with Terrace,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,Happy Land Hotel Dahab,1951,2,0,1,7.8,232.0,Dahab,0.6,4.0,Hotel,Deluxe Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,Ecotel Dahab Bay View Resort,4428,2,0,1,7.8,792.0,Dahab,6.1,4.0,Resort,Standard Double Room with Sea View,Yes,Breakfast & dinner included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Dahab,Al Deira Dahab Hotel,2341,2,0,1,8.9,509.0,Dahab,0.7,4.0,Hotel,Double Room with Mountain View,Yes,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Tree House Hotel Dahab,1582,2,0,1,7.7,11.0,Dahab,0.35,4.0,Hotel,Standard Twin Room with Sea View,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Dahab,Swiss Royal DAHAB,2497,2,0,1,9.3,188.0,Dahab,1.1,4.0,Hotel,Standard Studio,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Bar",2026-05-09
+Dahab,Eldorado Lodge and Restaurant,2498,2,0,1,8.4,84.0,Dahab,1.0,4.0,Hotel,Standard Double or Twin Room,No,Not Specified,"Adults only, Bar, Restaurant",2026-05-09
+Dahab,Star Of Dahab Hotel,2620,2,0,1,8.4,90.0,Dahab,0.8,4.0,Hotel,Deluxe Double Room,No,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Shams Hotel & Dive Centre,2695,2,0,1,8.5,385.0,Dahab,0.2,4.0,Hotel,Bungalow,No,Breakfast included,"Restaurant, Free Wifi",2026-05-09
+Dahab,Mony House,1139,2,0,1,8.6,151.0,Dahab,1.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,NEOM DAHAB - - - - - - - - - - - Your new hotel in Dahab with private beach,5402,2,0,1,8.8,128.0,Dahab,1.9,4.0,Apartment,Classic One-Bedroom Apartment with King Bed,Yes,Breakfast included,"Heated pool, Free parking, Bar",2026-05-09
+Dahab,Greek Camp,791,2,0,1,7.7,161.0,Dahab,0.3,4.0,Hotel,Double Room with Shared Toilet,No,Not Specified,"Free parking, Bar",2026-05-09
+Dahab,Dahab Divers,2017,2,0,1,8.2,123.0,Dahab,0.6,4.0,Hotel,Mosses Divers House Double Room,No,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Dahab Paradise,3573,2,0,1,9.3,100.0,Dahab,2.8,3.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,Auski Hostel Dahab,1054,2,0,1,8.4,119.0,Dahab,0.45,4.0,Hostel,Double Room with Shared Bathroom,No,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Dahab Bay hotel,2528,2,0,1,8.0,168.0,Dahab,2.6,3.0,Hotel,Deluxe Double Room (2 Adults + 1 Child),Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,Rafiki Hostels - Dahab,2064,2,0,1,8.9,658.0,Dahab,0.8,4.0,Hostel,Queen Room with Garden View,No,Breakfast included,"Adults only, Free parking, Free Wifi",2026-05-09
+Dahab,Geo Palace,2109,2,0,1,8.9,36.0,Dahab,1.5,4.0,Hotel,Deluxe Double Room,Yes,Breakfast included,"Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Hakuna Matata Dahab,1845,2,0,1,9.0,87.0,Dahab,1.4,4.0,Hotel,King Room with Mountain View,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,Tranquilo Boutique Hostel - Dahab,1518,2,0,1,9.4,216.0,Dahab,0.7,4.0,Hostel,Deluxe Double Room,Yes,Breakfast included,"Adults only, Free parking, Free Wifi",2026-05-09
+Dahab,Sunrise Dahab lodge,1582,2,0,1,9.0,67.0,Dahab,0.5,3.0,Hotel,Double Room with Private Bathroom,Yes,Not Specified,"Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Dahab Motel,1160,2,0,1,8.7,17.0,Dahab,1.1,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,Alaska Camp & Hotel,1142,2,0,1,7.0,175.0,Dahab,0.2,4.0,Hotel,Double or Twin Room,No,Breakfast included,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,The Wind Farm,1582,2,0,1,8.8,132.0,Dahab,3.0,4.0,Hotel,Deluxe Bungalow with Garden View,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Villa Blanca Dahab,12360,2,0,1,8.6,15.0,Dahab,1.9,4.0,Villa,Villa,No,Not Specified,"Hot tub/Jacuzzi, Free parking, Free Wifi",2026-05-09
+Dahab,Diamond Dahab House,2372,2,0,1,9.1,118.0,Dahab,1.1,3.0,Hotel,Deluxe Double Room,Yes,Not Specified,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Dahab,The Spot el assalaa apartments,3889,2,0,1,8.3,70.0,Dahab,2.0,4.0,Apartment,Apartment with Balcony,No,Not Specified,Free Wifi,2026-05-09
+Dahab,Chillax Dahab,2755,2,0,1,8.5,115.0,Dahab,0.4,2.0,Hotel,Economy Double Room,No,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Ghazala Bay Hotel,1352,2,0,1,8.0,21.0,Dahab,0.25,4.0,Hotel,Triple Room,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Zain Dive Inn,1687,2,0,1,8.0,92.0,Dahab,5.0,4.0,Inn,Superior Double Room,Yes,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Dahab,Roots Camp Dahab,949,2,0,1,8.6,151.0,Dahab,0.4,4.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,Casa D'or Dahab,3271,2,0,1,7.8,89.0,Dahab,0.45,4.0,Hotel,Junior Suite with Balcony,Yes,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Bedouin Hostel- دار البدوي,1582,2,0,1,8.8,86.0,Dahab,1.6,4.0,Hostel,Superior King Room,Yes,Breakfast included,Not Available,2026-05-09
+Dahab,Sheikh Ali Dahab Resort,5817,2,0,1,9.6,165.0,Dahab,0.6,3.0,Resort,Junior Suite,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,2Rest,2636,2,0,1,8.5,43.0,Dahab,0.6,2.0,Hotel,Standard Double Suite,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,El Salam hotel,2040,2,0,1,7.8,24.0,Dahab,0.8,4.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,White Flat Studios,1520,2,0,1,8.7,165.0,Dahab,0.3,4.0,Apartment,Standard Triple Studio,No,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Station House,1729,2,0,1,7.6,105.0,Dahab,0.9,3.0,Hotel,King Studio with Sofa Bed,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,Golden Europe Hotel,2610,2,0,1,7.0,131.0,Dahab,0.7,3.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Sababa Hotel,2377,2,0,1,7.4,66.0,Dahab,0.45,4.0,Hotel,Budget Double or Twin Room,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,Acacia Dahab Hotel,3201,2,0,1,8.0,230.0,Dahab,0.5,3.0,Hotel,Classic Double Backside Room,No,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Dahab,Carmine Hotel Dahab,1898,2,0,1,8.3,162.0,Dahab,0.3,4.0,Hotel,Standard Twin Room,No,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Dahab,Safir Dahab Resort,6274,2,0,1,9.3,3310.0,Dahab,2.3,5.0,Resort,standard double back view,Yes,Breakfast included,"Bar, Restaurant, Free Wifi",2026-05-09
+Dahab,Beit Tolba,2135,2,0,1,9.0,179.0,Dahab,1.5,3.0,Hotel,One-Bedroom Chalet,No,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Dahab,44 Inn,1771,2,0,1,8.6,151.0,Dahab,0.7,4.0,Inn,Economy Double Room,Yes,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Dahab,Miramar Camp Dahab,1495,2,0,1,9.0,52.0,Dahab,0.35,4.0,Hotel,Economy Triple Room,No,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Red Sea Relax Hotel,3675,2,0,1,8.4,283.0,Dahab,0.6,3.0,Hotel,Double or Twin Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,American villa Dahab 2,2666,2,0,1,8.6,151.0,Dahab,1.6,3.0,Villa,Three-Bedroom Villa,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,Dream house,2776,2,0,1,8.4,6.0,Dahab,0.6,3.0,Hotel,Triple Room,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,Mannam apartment boho,2372,2,0,1,8.1,14.0,Dahab,1.8,3.0,Apartment,One-Bedroom Chalet,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,Nour Boutique Hotel,7381,2,0,1,9.4,66.0,Dahab,0.9,4.0,Hotel,Superior Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Dahab,Mony House,1139,2,0,1,8.6,151.0,Dahab,1.5,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,Dyarna Dahab Hotel,2372,2,0,1,8.4,7.0,Dahab,0.8,2.0,Hotel,Budget Double Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Lucky palace Dahab,4534,2,0,1,7.4,172.0,Dahab,1.8,3.0,Hotel,Studio with Terrace,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Dahab,El Primo Hotel Dahab,3809,2,0,1,8.2,63.0,Dahab,1.1,4.0,Hotel,Double Room,No,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Dahab,Nada house,1661,2,0,1,7.5,7.0,Dahab,0.5,4.0,Hotel,Two-Bedroom Chalet,Yes,Not Specified,Free parking,2026-05-09
+Dahab,Golden Plaza Dahab Resort,1687,2,0,1,8.5,59.0,Dahab,0.9,3.0,Resort,Standard Double or Twin Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Dahab,Sea Breeze Dahab,1740,2,0,1,7.7,105.0,Dahab,2.1,4.0,Hotel,Mixed Dormitory Room,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Dahab,Daivrs House,1265,2,0,1,6.6,5.0,Dahab,0.7,2.0,Hotel,Queen Room,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Dahab,Poolfront Sea View Chalet Top Rated In Dahab,3203,2,0,1,10.0,7.0,Dahab,3.9,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Dahab,Dahab Lagoon Club & Resort Ex Tirana Dahab,6274,2,0,1,9.0,348.0,Dahab,2.3,4.0,Resort,Standard Twin Room Garden View,Yes,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+El Gouna,Turtle's Inn Hotel,4792,2,0,1,8.3,301.0,"El Gouna, Hurghada",4.7,3.0,Inn,Standard Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Three Corners Ocean View El Gouna - Adults Only,5973,2,0,1,8.8,968.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Premium Room with Garden View,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Captain's Inn Hotel,4840,2,0,1,8.2,519.0,"El Gouna, Hurghada",4.7,3.0,Inn,Standard Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Movenpick Resort & Spa El Gouna,6941,2,0,1,8.0,1253.0,"El Gouna, Hurghada",4.7,5.0,Resort,Classic King Room,No,Breakfast included,Not Available,2026-05-09
+El Gouna,Mosaique Hotel El Gouna,4840,2,0,1,8.3,273.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Deluxe Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Aqua Palms Resort D101,847,2,0,1,9.0,1.0,"El Gouna, El Gouna",4.7,4.0,Resort,One-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,Steigenberger Golf Resort El Gouna,11482,2,0,1,8.7,1415.0,"El Gouna, Hurghada",4.7,5.0,Resort,Deluxe Twin Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Ali Pasha Hotel,6548,2,0,1,8.9,571.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Deluxe Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Creek Hotel and Residences El Gouna,5799,2,0,1,9.2,912.0,"El Gouna, Hurghada",4.7,5.0,Hotel,Creek Room Mountain View,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Doubletree By Hilton Mangroovy El Gouna Resort,13892,2,0,1,9.0,217.0,"El Gouna, Hurghada",4.7,5.0,Resort,King Guest Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,The Chedi El Gouna,13950,2,0,1,9.1,736.0,"El Gouna, Hurghada",4.7,5.0,Hotel,Deluxe Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Gcribs Onebedroom Elgouna,2135,2,0,1,7.7,20.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Sheraton Miramar Resort El Gouna,9490,2,0,1,8.5,517.0,"El Gouna, Hurghada",4.7,5.0,Resort,Superior Twin Room,No,Breakfast included,Not Available,2026-05-09
+El Gouna,"El Gouna Elite Worldwide Sea & Garden Residences - Hurghada, Egypt",4481,2,0,1,9.1,379.0,"El Gouna, Hurghada",4.7,4.0,Apartment,Apartment with Garden View,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,Cook’s Club El Gouna (Adults Only),9774,2,0,1,9.4,2055.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Standard Twin Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Panorama Bungalows Resort El Gouna,8593,2,0,1,8.4,1469.0,"El Gouna, Hurghada",4.7,4.0,Resort,Standard Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Three Corners Rihana Resort El Gouna,7980,2,0,1,8.7,1762.0,"El Gouna, Hurghada",4.7,4.0,Resort,Comfort Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Ancient Sands Golf Resort and Residences,13096,2,0,1,8.6,361.0,"El Gouna, Hurghada",4.7,5.0,Resort,Deluxe Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Bali Al-Juna,3948,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Two-Bedroom Chalet,No,Not Specified,Not Available,2026-05-09
+El Gouna,Fanadir Hotel El Gouna,6121,2,0,1,7.8,151.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Deluxe Room,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,"M Residence with Pool View & Beach Access - El Gouna, Hurghada",7992,2,0,1,9.4,5.0,"El Gouna, Hurghada",4.7,4.0,Apartment,Three-Bedroom Vacation Home,No,Not Specified,Not Available,2026-05-09
+El Gouna,SeaView Penthouse with Roof in Marina El Gouna Egypt (Center),9335,2,0,1,9.1,42.0,"El Gouna, Hurghada",4.7,3.0,Hotel,Three-Bedroom House,No,Not Specified,Not Available,2026-05-09
+El Gouna,Mangarov-2BR. M1-6b-12,22559,2,0,1,8.7,29.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,"Nayah Stays, Amazing villa with private pool & 5 master suites",15125,2,0,1,8.7,16.0,"El Gouna, Hurghada",4.7,3.0,Villa,Five-Bedroom House,No,Not Specified,Not Available,2026-05-09
+El Gouna,Elgouna Hurghada egypt mangroovy,8066,2,0,1,9.6,26.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,G-cribs studio pool view,4376,2,0,1,8.5,4.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Studio Apartment with Balcony,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,Hurghada Concierge in EL-Gouna,4112,2,0,1,8.2,24.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Casa Cook El Gouna - Adults Only,15088,2,0,1,9.3,830.0,"El Gouna, Hurghada",4.7,5.0,Hotel,Premium Twin Terrace,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,West golf 2bedroom,4508,2,0,1,8.5,41.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Sabina 2br penthouse,11862,2,0,1,6.0,4.0,"El Gouna, Hurghada",4.7,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,"El gouna , Red sea",2610,2,0,1,7.5,8.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,EL GOUNA Boho Beach Chalet with pool access,4508,2,0,1,10.0,3.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Elgouna Heart Mangroovy new 2bedrooms,6854,2,0,1,9.0,41.0,"El Gouna, Hurghada",4.7,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Chic G Cribs Studio,4033,2,0,1,9.7,3.0,"El Gouna, El Gouna",4.7,4.0,Apartment,One-Bedroom Chalet,No,Not Specified,Not Available,2026-05-09
+El Gouna,Luxury 4 bedroom villa - Cyan ElGouna,36904,2,0,1,9.0,5.0,"El Gouna, Hurghada",4.7,3.0,Villa,Villa,No,Not Specified,Not Available,2026-05-09
+El Gouna,Studio el Gouna holiday G cribs Compound,2847,2,0,1,6.3,3.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom House,No,Not Specified,Not Available,2026-05-09
+El Gouna,منتجع طيبة فيو Tiba view,1661,2,0,1,8.3,12.0,"El Gouna, Hurghada",4.7,3.0,Hotel,Studio with Sea View,No,Not Specified,Not Available,2026-05-09
+El Gouna,Hotel Sultan Bey Resort,10755,2,0,1,8.6,502.0,"El Gouna, Hurghada",4.7,4.0,Resort,Premium Garden view Terrace,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,Bali studio,2494,2,0,1,6.2,51.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Studio with Balcony,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,الغردقة الفيروز شارع الامير ابن طلال,797,2,0,1,1.0,1.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Club Paradisio El Gouna Red Sea,10755,2,0,1,8.9,346.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Premium Pool View,Yes,Breakfast included,Not Available,2026-05-09
+El Gouna,VESTA - Gouna Residence,16277,2,0,1,8.6,151.0,"El Gouna, El Gouna",4.7,4.0,Villa,Villa with Private Pool,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,"Nayah Stays, Luxurious bedroom in Fanadir Marina",4428,2,0,1,10.0,4.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment with Marina View and Balcony,No,Not Specified,Not Available,2026-05-09
+El Gouna,Stunning 4BD Apartment Lagoon View-Gouna,12653,2,0,1,9.7,3.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,"Nayah Stays, Cozy lagoons terrace one ensuite Apt",5124,2,0,1,10.0,3.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,EL GOUNA Scarab Club One bedroom,2230,2,0,1,6.9,14.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Gcribs apartment pool view,4033,2,0,1,7.4,9.0,"El Gouna, El Gouna",4.7,3.0,Apartment,Apartment with Pool View,No,Not Specified,Not Available,2026-05-09
+El Gouna,G Cribs Stylish Studio,3796,2,0,1,8.1,23.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,one bedroom G-cribs,3321,2,0,1,7.2,14.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Apartment - Ground Floor,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,1BR villa - private heated pool in Bali ElGouna,6326,2,0,1,7.3,11.0,"El Gouna, Hurghada",4.7,4.0,Villa,One-Bedroom House,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,La Maison Bleue El Gouna,18416,2,0,1,9.3,118.0,"El Gouna, Hurghada",4.7,5.0,Hotel,Premium Suite,No,Breakfast included,Not Available,2026-05-09
+El Gouna,"Premium 1-Bedroom Chalet with Lagoon Views in West Golf, El Gouna",3179,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Abutig Marina flat ground floor,8435,2,0,1,9.5,6.0,"El Gouna, Hurghada",4.7,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,"Luxury & cozy 1BDR at Mangroovy, Elgouna, Red sea",3416,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Blue haven el gouna,4508,2,0,1,10.0,1.0,"El Gouna, Hurghada",4.7,4.0,Hotel,Double Room,No,Not Specified,Not Available,2026-05-09
+El Gouna,"El Gouna Elite Vacation Apartments Hurghada, Multiple Locations",6063,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Three-Bedroom Apartment with Water View,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,Elgouna G cribs b-7 first floor,2263,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,ELGOUNA Cozy 1BR Cyan Lagoon view,5219,2,0,1,9.0,1.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Sun Kissed At Fanadir Marina El Gouna - nesty hospitality,8541,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Cheapest studio at El-Gouna - Bali compound,1582,2,0,1,5.0,8.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Cozy Two bedroom private pool at Bali El Gouna,7803,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Villa,Two-Bedroom Villa,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,Studio El Gouna G Cribs Hotel RH,4270,2,0,1,8.7,3.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,ELGOUNA Sabina 2 bedrooms,5061,2,0,1,8.3,3.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Two-Bedroom Apartment with Lake View,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,unique flat_ garden and lagoon,9490,2,0,1,9.8,11.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Ancient Sands Golf Resort El Gouna Luxury Apartment,4745,2,0,1,9.0,2.0,"El Gouna, Hurghada",4.7,3.0,Resort,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Two bedrooms at Westgolf El Gouna,4639,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,Two-Bedroom Apartment with Lake View,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,"Bella Sabina, Lovely one bedroom chalet with pool",3321,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Westgolf Y62,4033,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Kamaran 1BR Lagoon Pool Apartment El Gouna,4638,2,0,1,10.0,1.0,"El Gouna, Hurghada",4.7,3.0,Apartment,One-Bedroom Apartment with Balcony and Water View,No,Not Specified,Not Available,2026-05-09
+El Gouna,Modern Cozy House In Gouna G cribs,5567,2,0,1,8.6,151.0,"El Gouna, El Gouna",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,El GOUNA,4270,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,ELGOUNA Maraya duplex pool view,4798,2,0,1,4.0,1.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,The Contemporary Condo in Gouna,3954,2,0,1,8.6,151.0,"El Gouna, Hurghada",4.7,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Gouna,The G Cribs Sunlit - El Gouna,3929,2,0,1,1.0,1.0,"El Gouna, El Gouna",4.7,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Gouna,Serene 1BR Haven Kamaran,3954,2,0,1,10.0,1.0,"El Gouna, Hurghada",4.7,3.0,Apartment,Apartment,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,Three Corners Sea Beach Resort,3985,2,0,1,8.7,197.0,Coraya Bay,4.7,4.0,Resort,Comfort Double Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,"Marina Resort Port Ghalib, a member of Radisson Individuals",3428,2,0,1,8.3,686.0,Port Ghalib,4.7,5.0,Resort,Junior Suite - Pool View,Yes,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Sataya Resort Marsa Alam,6363,2,0,1,8.8,1625.0,Marsa Alam City,4.7,5.0,Resort,Premium Room Pool View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Swisstouch Oriental Resort,4508,2,0,1,8.3,1263.0,Coraya Bay,4.7,4.0,Resort,Double or Twin Room with Garden View,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,La Casa Guest House,2689,2,0,1,9.0,407.0,Marsa Alam City,4.7,3.0,Guest house,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Dream Lagoon Resort & Aqua Park,5694,2,0,1,8.1,170.0,Marsa Alam City,4.7,4.0,Resort,Standard room Garden view valid for Egyptian only,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Hilton Marsa Alam Nubian Resort,5019,2,0,1,8.8,394.0,Abu Dabbab,4.7,4.0,Resort,King Room with Garden View,Yes,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Marina Residence Suites Port Ghalib,3809,2,0,1,8.3,751.0,Port Ghalib,4.7,4.0,Apartment,Junior Suite Lagoon View,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,Three Corners Equinox Beach Resort,3592,2,0,1,8.1,151.0,Abu Dabbab,4.7,4.0,Resort,Comfort Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Wadi Lahmy Azur Resort - Soft All-Inclusive,4600,2,0,1,9.1,759.0,Abū Ghuşūn,4.7,3.0,Resort,Standard Double or Twin Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Swissotel Resort El Quseir,2873,2,0,1,8.4,412.0,Quseir,4.7,4.0,Resort,Garden View Room - Queen Bed,No,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Amarina Queen Resort & Aqua Park Marsa Alam,5154,2,0,1,8.8,1741.0,Marsa Alam City,4.7,5.0,Resort,Double or Twin Room with Garden View,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Movenpick Resort El Quseir,4415,2,0,1,9.2,339.0,Quseir,4.7,5.0,Resort,Queen Room with Garden View,No,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Steigenberger Resort Alaya Marsa Alam - Red Sea - Adults Friendly 16 Years Plus,11040,2,0,1,9.8,1967.0,Coraya Bay,4.7,5.0,Resort,Superior,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Protels Crystal Beach Resort,4999,2,0,1,8.3,328.0,Marsa Alam City,4.7,4.0,Resort,Standard Double Room,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Reef House,1845,2,0,1,8.7,345.0,Marsa Alam City,4.7,4.0,Hotel,Economy Double Room,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,Three Corners Fayrouz Plaza Beach Resort,6176,2,0,1,9.2,453.0,Port Ghalib,4.7,5.0,Resort,Premium Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Three Corners Happy Life Beach Resort,4522,2,0,1,9.4,533.0,Abu Dabbab,4.7,4.0,Resort,Comfort Double Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,JAZ Costa Mares- Adults Friendly 16 Years Plus,14123,2,0,1,9.5,441.0,Marsa Alam City,4.7,5.0,Hotel,Superior Queen Bay View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,JAZ Lamaya Resort,9374,2,0,1,9.3,899.0,Coraya Bay,4.7,5.0,Resort,"Deluxe, Queen or Twin Bed, Garden View - Jaz Lamaya",Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Sentido Reef Oasis Suakin Resort,8237,2,0,1,9.1,669.0,Marsa Alam City,4.7,5.0,Resort,Deluxe Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,JAZ Solaya,9448,2,0,1,9.7,532.0,Coraya Bay,4.7,5.0,Hotel,Superior Deluxe Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,JAZ Grand Marsa,11604,2,0,1,9.1,561.0,Coraya Bay,4.7,5.0,Hotel,"Superior Premium, Queen or Twin Bed, Pool View",Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Marina Lodge at Port Ghalib,5203,2,0,1,9.2,535.0,Port Ghalib,4.7,4.0,Hotel,Standard Double or Twin Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Cardina Resort,5321,2,0,1,8.0,306.0,Marsa Alam City,4.7,4.0,Resort,Standard Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Novotel Marsa Alam Beach Resort,5377,2,0,1,8.6,487.0,Quseir,4.7,5.0,Resort,Classic Twin Room with Garden View,No,Breakfast & dinner included,Not Available,2026-05-09
+Marsa Alam,Flamenco Beach & Resort Quseir,3203,2,0,1,8.2,110.0,Quseir,4.7,4.0,Resort,Standard Room with Sea View,No,Breakfast & dinner included,Not Available,2026-05-09
+Marsa Alam,Akassia Swiss Resort,7477,2,0,1,9.1,504.0,Quseir,4.7,5.0,Resort,Standard Room with Garden View,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Sunrise Anjum Resort,9991,2,0,1,9.4,643.0,Marsa Alam City,4.7,5.0,Resort,Family Room Bunk Bed,Yes,All meals included,Not Available,2026-05-09
+Marsa Alam,Shams Alam Beach Resort,5765,2,0,1,8.7,451.0,Abū Ghuşūn,4.7,4.0,Resort,Standard Room,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,True Beach Resort,5074,2,0,1,8.9,111.0,Marsa Alam City,4.7,5.0,Resort,Superior Double Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Pickalbatros Vita Resort - Portofino Marsa Alam,10131,2,0,1,9.8,923.0,Abu Dabbab,4.7,4.0,Resort,Deluxe Double or Twin Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Oyster Bay Beach Suites,2202,2,0,1,8.3,96.0,Abu Dabbab,4.7,5.0,Apartment,Studio with Sea View,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,Marsa Alam Luxury Apartments Signature Suite,1054,2,0,1,10.0,1.0,Marsa Alam City,4.7,3.0,Apartment,Double Room with Private Bathroom,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,JAZ Elite Riviera,17262,2,0,1,9.6,601.0,Marsa Alam City,4.7,5.0,Hotel,Superior Queen Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Marsa Alam Family Apartment,1002,2,0,1,8.5,16.0,Marsa Alam City,4.7,4.0,Apartment,Three-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,Steigenberger Coraya Beach - Adults Friendly 16 Years Plus,13887,2,0,1,9.8,598.0,Coraya Bay,4.7,5.0,Hotel,Room Assigned on Arrival,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,JAZ Elite Amara,19409,2,0,1,9.5,369.0,Marsa Alam City,4.7,5.0,Hotel,Superior Queen or Twin Beds with Pool View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Deep Ashri Apartment & Dive Club,2465,2,0,1,8.7,67.0,Marsa Alam City,4.7,4.0,Apartment,Studio with Balcony,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,MG Alexander The Great Hotel,6405,2,0,1,8.4,198.0,Marsa Alam City,4.7,4.0,Hotel,Double Room with Garden View,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,Lahami Bay Beach Resort,12231,2,0,1,8.6,118.0,Abū Ghuşūn,4.7,4.0,Resort,Twin Room with 2 Full Beds and Partial Sea View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Utopia Beach Club,9490,2,0,1,9.0,244.0,Marsa Alam City,4.7,4.0,Hotel,Standard Double Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,"Lazuli Hotel, Marsa Alam",9490,2,0,1,8.0,81.0,Quseir,4.7,5.0,Hotel,Deluxe Double Room,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Desert & Sea Haven Marsa Alam,939,2,0,1,8.1,11.0,Marsa Alam City,4.7,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,Blend Elphistone Resort Marsa Alam,4256,2,0,1,8.9,1008.0,Abu Dabbab,4.7,4.0,Resort,Superior Twin bed Garden View,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Dolphin Continental Hotel,1898,2,0,1,8.3,125.0,Quseir,4.7,3.0,Hotel,King Room with Sea View,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,la vi marsa alam,1815,2,0,1,9.3,28.0,Marsa Alam City,4.7,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,JAZ Neo Dar El Madina,7227,2,0,1,9.7,273.0,Coraya Bay,4.7,4.0,Hotel,Superior Twin Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Oyster bay resort studio,1993,2,0,1,8.0,1.0,Marsa Alam,4.7,4.0,Resort,Studio with Garden View,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,Abu Dabbab Lodge,5061,2,0,1,8.0,85.0,Abu Dabbab,4.7,3.0,Inn,Double Room with Terrace,Yes,All meals included,Not Available,2026-05-09
+Marsa Alam,Oasis marsa alam,1423,2,0,1,7.3,97.0,Marsa Alam City,4.7,4.0,Hotel,Studio with Sofa Bed,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,"2 rooms, 2 balconies",854,2,0,1,10.0,1.0,Marsa Alam City,4.7,3.0,Apartment,Apartment,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,sea view house,1845,2,0,1,7.3,175.0,Marsa Alam City,4.7,3.0,Hotel,Deluxe Double Room with Balcony and Sea View,Yes,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Bedouin Valley Eco Resort,2667,2,0,1,8.1,89.0,Marsa Alam City,4.7,4.0,Resort,Deluxe Double Room with Balcony and Sea View,Yes,Breakfast & dinner included,Not Available,2026-05-09
+Marsa Alam,Concorde Moreen Beach Resort,6512,2,0,1,9.0,149.0,Abu Dabbab,4.7,5.0,Resort,Superior Double or Twin Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Beach safari nubian resort,5272,2,0,1,7.4,123.0,Marsa Alam City,4.7,4.0,Resort,Double Room with Patio,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,"Pickalbatros Sea World Resort - Marsa Alam- ""Aqua Park""",9545,2,0,1,9.4,682.0,Quseir,4.7,5.0,Resort,Deluxe Twin Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Cozy studio with a view in port ghalib,1898,2,0,1,8.4,15.0,Marsa Alam,4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,La Casa Budget,1898,2,0,1,9.0,55.0,Marsa Alam City,4.7,4.0,Hotel,Double Room with Shared Bathroom,Yes,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Pickalbatros The Palace Port Ghalib,9725,2,0,1,9.3,1147.0,Port Ghalib,4.7,5.0,Hotel,Special Offer - Deluxe Double Room - Egyptians and Residents Only,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Wadi Sabarah Lodge,5939,2,0,1,9.3,884.0,Marsa Alam City,4.7,4.0,Hotel,Standard King Room,Yes,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Pickalbatros Sands Port Ghalib,8093,2,0,1,9.1,708.0,Port Ghalib,4.7,5.0,Hotel,Deluxe Double or Twin Room,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Blue Vision Diving Hotel,2109,2,0,1,8.5,99.0,Marsa Alam City,4.7,3.0,Hotel,Double or Twin Room,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,Silver Beach Boutique Hotel,3411,2,0,1,9.1,125.0,Quseir,4.7,3.0,Hotel,Deluxe Twin Room,No,Breakfast included,Not Available,2026-05-09
+Marsa Alam,Mangrove Bay Resort,4323,2,0,1,7.7,96.0,Quseir,4.7,3.0,Resort,Bungalow,No,All meals included,Not Available,2026-05-09
+Marsa Alam,Royal Brayka Beach Resort,5799,2,0,1,8.7,98.0,Abu Dabbab,4.7,4.0,Resort,Standard Double or Twin Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Guest house science W 1,1613,2,0,1,9.1,39.0,Marsa Alam City,4.7,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,Shoni Bay Resort,6480,2,0,1,8.3,3.0,Marsa Alam City,4.7,4.0,Resort,Chalet Sea view,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Coral Hills Resort & SPA,3585,2,0,1,6.6,236.0,Quseir,4.7,4.0,Resort,Double or Twin Room with Sea View,No,All-inclusive,Not Available,2026-05-09
+Marsa Alam,JAZ Neo Reef Marsa,11356,2,0,1,9.2,415.0,Coraya Bay,4.7,4.0,Hotel,"Standard, King or Twin Bed, Pool View",Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Pickalbatros Villaggio Aqua Park - Portofino Marsa Alam,9545,2,0,1,9.7,1895.0,Marsa Alam City,4.7,4.0,Villa,Deluxe Double or Twin Room with Garden View,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Rock House,949,2,0,1,10.0,2.0,Marsa Alam City,4.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Marsa Alam,النزهه,896,2,0,1,10.0,1.0,Quseir,4.7,4.0,Apartment,Three-Bedroom Premium Apartment,Yes,Not Specified,Not Available,2026-05-09
+Marsa Alam,Brayka Bay Reef Resort,6643,2,0,1,8.7,83.0,Abu Dabbab,4.7,4.0,Resort,Standard Double or Twin Room,Yes,All-inclusive,Not Available,2026-05-09
+Marsa Alam,Bliss Nada Beach Resort,2313,2,0,1,8.2,10.0,Coraya Bay,4.7,4.0,Resort,Double or Twin Room with Sea View,No,Not Specified,Not Available,2026-05-09
+Siwa Oasis,Gazrashek Siwa Hot spring& trips Haven,1213,2,0,1,9.3,128.0,Siwa,5.0,4.0,Hotel,Double Room with Private Bathroom,Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Siwa Oasis,Seliyaa Siwa Inn Hotel,1160,2,0,1,8.5,87.0,Siwa,1.7,4.0,Inn,Bungalow with Garden View,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Siwa Oasis,NaInshal Siwa,1568,2,0,1,9.1,260.0,Siwa,0.15,4.0,Hotel,Double or Twin Room,Yes,Breakfast included,Free Wifi,2026-05-09
+Siwa Oasis,Siwa Gardenia Cottage,2135,2,0,1,8.6,151.0,Siwa,0.45,4.0,Hotel,Triple Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,Al-Manara Hostel Siwa Oasis,1075,2,0,1,8.8,255.0,Siwa,0.4,4.0,Hostel,Economy Double or Twin Room,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,WAFLA,2636,2,0,1,9.8,100.0,Siwa,2.5,3.0,Hotel,One-Bedroom House,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Siwa Shali Resort,3427,2,0,1,7.9,112.0,Siwa,4.2,3.0,Resort,Standard Twin Room,Yes,Breakfast included,"Heated pool, Free parking, Spa",2026-05-09
+Siwa Oasis,Hotel Talid,2894,2,0,1,8.9,93.0,Siwa,0.35,3.0,Hotel,Double Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Tanirt ecolodge,3163,2,0,1,9.6,64.0,Siwa,11.4,5.0,Hotel,Double Room with Terrace,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,Addas Home,791,2,0,1,8.2,156.0,Siwa,0.7,3.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,"Bar, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Siwa Salt Lake Lodge,2812,2,0,1,8.7,64.0,Siwa,6.9,4.0,Hotel,Standard Double or Twin Room with Garden View,Yes,Breakfast included,"Heated pool, Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Olive Garden House Siwa,1344,2,0,1,9.2,227.0,Siwa,2.1,4.0,Hotel,Double or Twin Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Baben Home,1281,2,0,1,8.8,97.0,Siwa,0.7,4.0,Hotel,Double Room with Balcony,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Nour El Waha Hotel,1845,2,0,1,8.5,20.0,Siwa,0.6,3.0,Hotel,Standard Double or Twin Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,The Green Siwa Hotel,986,2,0,1,9.1,140.0,Siwa,1.8,4.0,Hotel,Double Room with Garden View,No,Breakfast included,"Hot tub/Jacuzzi, Free parking, 24-hour front desk",2026-05-09
+Siwa Oasis,Albabenshal Lodge Siwa,2372,2,0,1,9.0,124.0,Siwa,0.5,4.0,Hotel,Double or Twin Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Shali Home,1196,2,0,1,9.8,43.0,Siwa,0.35,4.0,Hotel,Double Room with Shared Bathroom,No,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Siwa Oasis,Siwa Oracle Hostel,1708,2,0,1,9.9,74.0,Siwa,1.3,4.0,Hostel,Double Room with Shared Bathroom,No,Breakfast included,"Bar, Free Wifi",2026-05-09
+Siwa Oasis,Negmet Siwa Hotel,1898,2,0,1,7.5,4.0,Siwa,0.45,3.0,Hotel,Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,Asfay Lodge Siwa,3954,2,0,1,9.3,12.0,Siwa,4.0,4.0,Hotel,Standard Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Siwa Oasis,Spellbound in Siwa,2636,2,0,1,10.0,2.0,Siwa,2.4,4.0,Hotel,Double Room with Private Bathroom,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,RAAK HOTEL فندق راك,896,2,0,1,7.0,43.0,Siwa,0.35,3.0,Hotel,Double Room,Yes,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Hayaat siwa hot spring,1753,2,0,1,8.9,130.0,Siwa,5.7,4.0,Hotel,Budget Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Bar",2026-05-09
+Siwa Oasis,Dakhly siwa,493,2,0,1,9.3,3.0,Siwa,0.35,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Free parking,2026-05-09
+Siwa Oasis,Wazidi Resort,5272,2,0,1,10.0,3.0,Siwa,3.7,4.0,Resort,Double Room with Garden View,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Soléi Old Town,3321,2,0,1,8.4,62.0,Siwa,0.35,4.0,Hotel,Superior Double Room,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,Grand Siwa,3179,2,0,1,9.5,75.0,Siwa,3.3,4.0,Hotel,Standard Twin Room,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Siwawi house,664,2,0,1,8.8,4.0,Siwa,0.7,4.0,Hotel,Double Room with Balcony,No,Not Specified,Not Available,2026-05-09
+Siwa Oasis,Happy Oasis Hotel,2636,2,0,1,10.0,5.0,Siwa,4.1,4.0,Hotel,King Room with Garden View,Yes,Breakfast included,"Heated pool, Free parking, Restaurant",2026-05-09
+Siwa Oasis,Arkan siwa أركان سيوة,721,2,0,1,9.4,14.0,Siwa,0.6,4.0,Hotel,Double Room with Shared Bathroom,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,Panta Lodge Siwa بنتا لودج سيوة,2501,2,0,1,8.3,115.0,Siwa,1.5,4.0,Hotel,King Studio with Sofa Bed,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Siwa Oasis,People to People Siwa,1661,2,0,1,7.3,4.0,Siwa,3.3,4.0,Hotel,Triple Room with Balcony,No,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Best One Siwa بيست وان سيوة,1170,2,0,1,7.6,26.0,Siwa,1.4,4.0,Hotel,Deluxe Double Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,فندق إريغن Erighin siwa hotel,1000,2,0,1,8.9,122.0,Siwa,1.1,3.0,Hotel,Double Room with Pool View,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Restaurant",2026-05-09
+Siwa Oasis,Nour El wadi,1002,2,0,1,9.8,17.0,Siwa,2.6,4.0,Hotel,Double Room,Yes,Breakfast included,"Heated pool, Free parking, Bar",2026-05-09
+Siwa Oasis,The Green Mirage free pickup,1186,2,0,1,8.6,151.0,Siwa,5.0,4.0,Hotel,Double Room with Private Bathroom,No,Breakfast included,"Hot tub/Jacuzzi, Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Meddur Siwa Oasis,3427,2,0,1,9.1,11.0,Siwa,4.7,5.0,Hotel,Bungalow with Garden View,Yes,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Siwa Oasis,La Siwa,1848,2,0,1,9.3,29.0,Siwa,4.3,4.0,Villa,Villa with Private Pool,No,Not Specified,"Hot tub/Jacuzzi, Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Agpeninshal Ecolodge,1578,2,0,1,9.5,40.0,Siwa,3.3,4.0,Hotel,Deluxe Double Room,No,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Siwa Oasis,Quiet Home,854,2,0,1,9.0,74.0,Siwa,0.45,4.0,Hotel,Double Room with Mountain View,No,Not Specified,"Airport shuttle (free), Free Wifi",2026-05-09
+Siwa Oasis,Bait Ward Siwa House,949,2,0,1,9.7,36.0,Siwa,0.15,4.0,Hotel,Double Room,No,Not Specified,"Free parking, Bar",2026-05-09
+Siwa Oasis,Mountain Camp Ali Khaled,1845,2,0,1,8.3,58.0,Siwa,4.0,4.0,Hotel,Double or Twin Room with Bathroom,Yes,Breakfast included,"Heated pool, Free parking, Bar",2026-05-09
+Siwa Oasis,M Biama Island,767,2,0,1,9.0,45.0,Siwa,4.8,4.0,Hotel,Double Room with Lake View,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Siwa Oasis,Papy house,1423,2,0,1,9.9,11.0,Siwa,6.9,4.0,Hotel,Double Room,No,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Siwa Oasis,El-Beit,1318,2,0,1,9.9,11.0,Siwa,2.5,4.0,Hotel,Economy Double Room,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Al-Manara Hostel Siwa Oasis 2,1012,2,0,1,9.2,41.0,Siwa,0.5,4.0,Hostel,Apartment,No,Not Specified,Free parking,2026-05-09
+Siwa Oasis,Moon_Valley_Siwa,2372,2,0,1,9.2,22.0,Siwa,15.5,4.0,Hotel,Standard Twin Room,No,Breakfast included,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Siwa Oasis,Tulip Camp Siwa Oasis,1318,2,0,1,9.5,4.0,Siwa,3.5,4.0,Hotel,Tent,Yes,Breakfast included,"Heated pool, Restaurant",2026-05-09
+Siwa Oasis,Siwa Serenity Home,1186,2,0,1,9.0,41.0,Siwa,3.1,4.0,Hotel,Deluxe Double or Twin Room,No,Not Specified,"Hot tub/Jacuzzi, Bar, Free Wifi",2026-05-09
+Siwa Oasis,Marcelia Eco-Village Front Lake View,4555,2,0,1,9.4,7.0,Siwa,19.7,4.0,Villa,Suite with Lake View,Yes,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Divine Siwa,4270,2,0,1,8.6,151.0,Siwa,2.8,4.0,Hotel,Twin Room,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,Dar Alsalam Suites,1210,2,0,1,8.3,9.0,Siwa,0.7,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Siwa Oasis,Azad Siwa Hotel,2768,2,0,1,9.3,124.0,Siwa,3.6,4.0,Hotel,Double Room,Yes,Not Specified,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Siwa Oasis,Stamps Ayur Siwa,6326,2,0,1,9.0,9.0,Siwa,3.6,4.0,Hotel,Deluxe Double Room,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Bar",2026-05-09
+Siwa Oasis,TATRABENT - Eco Friendly retreat in Siwa,5441,2,0,1,8.5,4.0,Siwa,1.4,4.0,Apartment,Two-Bedroom Deluxe Apartment with Garden View,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Siwa Oasis,Paloma Lodge,1827,2,0,1,9.3,26.0,Siwa,0.8,3.0,Hotel,Triple Room with Balcony,Yes,Breakfast included,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Soléi Desert Retreat,3690,2,0,1,9.3,7.0,Siwa,11.0,4.0,Hotel,Deluxe Double or Twin Room with Pool View,Yes,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Siwa Oasis,Dar Ismail Siwa,949,2,0,1,9.3,21.0,Siwa,0.05,3.0,Hotel,Standard Double Room with Shared Bathroom,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Siwa Oasis,Dream Lodge Siwa دريم لودج سيوة,1964,2,0,1,8.9,47.0,Siwa,1.6,3.0,Hotel,Deluxe Double or Twin Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,Adrartaziry,1186,2,0,1,8.6,151.0,Siwa,4.0,4.0,Hotel,Double Room with Terrace,No,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,Desert Rose Hotel,1864,2,0,1,10.0,3.0,Siwa,0.4,3.0,Hotel,Double Room,Yes,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Siwa Oasis,Siwa Bait Ward Home,909,2,0,1,10.0,16.0,Siwa,0.3,4.0,Hotel,Budget Double Room,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Siwa Oasis,Siwa Nostalgia Ecolodge,1423,2,0,1,8.5,14.0,Siwa,5.0,4.0,Hotel,Deluxe Double Room with Balcony,Yes,Breakfast included,"Free parking, Restaurant",2026-05-09
+Siwa Oasis,Heaven Gates Hotel,3427,2,0,1,8.6,151.0,Siwa,1.0,5.0,Hotel,Triple Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking, Restaurant",2026-05-09
+Siwa Oasis,نيو كليوباترا New cleopatra,527,2,0,1,8.6,151.0,Siwa,3.3,4.0,Hotel,Double Room with Private Bathroom,Yes,Not Specified,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Siwa Oasis,"Agbenakh Gatil, Cozy Garden Home in Siwa",598,2,0,1,10.0,1.0,Siwa,0.9,3.0,Hotel,One-Bedroom House,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Shasha Siwa Retreat & Thermal Spring,1423,2,0,1,9.0,20.0,Siwa,5.1,4.0,Hotel,Bungalow with Garden View,No,Breakfast included,"Hot tub/Jacuzzi, Free parking, 24-hour front desk",2026-05-09
+Siwa Oasis,Aylan,685,2,0,1,10.0,2.0,Siwa,0.5,4.0,Apartment,Apartment - Ground Floor,Yes,Not Specified,"Free parking, Free Wifi",2026-05-09
+Siwa Oasis,Karam Siwa Camp,264,2,0,1,8.1,10.0,Siwa,5.3,4.0,Hotel,Female Dormitory Room,Yes,Breakfast included,"Hot tub/Jacuzzi, Free parking",2026-05-09
+Siwa Oasis,Agmair Amellal,2952,2,0,1,8.6,151.0,Siwa,3.2,4.0,Inn,Double Room with Private Bathroom,Yes,Breakfast & dinner included,"Free parking, Bar, Restaurant",2026-05-09
+Siwa Oasis,amzran hotel siwa امزران سيوة,1471,2,0,1,7.0,6.0,Siwa,1.3,4.0,Hotel,Budget Double Room,No,Breakfast included,"Heated pool, Free parking, Bar",2026-05-09
+Siwa Oasis,شاليهات كامب نيو كيلوباترا,527,2,0,1,8.6,151.0,Siwa,1.8,4.0,Hotel,Double Room with Garden View,Yes,Breakfast included,"Free parking, Restaurant",2026-05-09
+Siwa Oasis,Siwa Star Rooms,949,2,0,1,9.8,5.0,Siwa,0.6,3.0,Hotel,Double Room with Shared Bathroom,No,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Siwa Oasis,The Home Siwa ذا هوم سيوة,791,2,0,1,8.6,151.0,Siwa,1.7,4.0,Hotel,Standard King Room,Yes,Breakfast included,"Bar, Free Wifi, 24-hour front desk",2026-05-09
+Siwa Oasis,فندق العجواني,1044,2,0,1,8.6,151.0,Siwa,3.7,4.0,Hotel,Double Room,No,Breakfast included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Fayoum,Tzila Lodge,7532,2,0,1,8.2,550.0,Fayoum,34.7,3.0,Inn,Twin Room with Terrace,No,Breakfast & dinner included,Not Available,2026-05-09
+Fayoum,New Panorama Resort,1951,2,0,1,7.1,91.0,Fayoum,19.1,3.0,Resort,Double Room with Lake View,Yes,Breakfast included,Not Available,2026-05-09
+Fayoum,Helnan Auberge Fayoum,4436,2,0,1,7.6,453.0,Fayoum,19.1,5.0,Hotel,Back View Room,Yes,Breakfast included,Not Available,2026-05-09
+Fayoum,Tunis Tone Ecolodge & Campsite,1318,2,0,1,8.2,99.0,Fayoum,35.1,4.0,Hotel,Tent,Yes,Breakfast included,Not Available,2026-05-09
+Fayoum,Jazirat Alqarn Hostel,1281,2,0,1,6.9,43.0,Fayoum,32.2,4.0,Hostel,Double Room,No,Breakfast included,Not Available,2026-05-09
+Fayoum,Queen Hotel Fayoum,4218,2,0,1,7.5,18.0,Fayoum,0.3,4.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Fayoum,Tache Boutique Hotel Fayoum,5599,2,0,1,8.1,43.0,Fayoum,37.2,4.0,Hotel,Deluxe Double Room with Balcony,No,Breakfast included,Not Available,2026-05-09
+Fayoum,Beit Ain al Haya,6073,2,0,1,9.5,34.0,Fayoum,34.8,3.0,Hotel,One-Bedroom House,No,Not Specified,Not Available,2026-05-09
+Fayoum,فاكانزا شقة فندقية مفروشة- vacanze,2783,2,0,1,8.9,77.0,Fayoum,0.8,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,Tzila Camp,3954,2,0,1,7.5,14.0,Fayoum,55.6,4.0,Inn,Tent,Yes,Breakfast & dinner included,Not Available,2026-05-09
+Fayoum,Tunis Village Chalet,5272,2,0,1,8.7,74.0,Fayoum,35.4,4.0,Villa,Two-Bedroom Chalet,No,Breakfast included,Not Available,2026-05-09
+Fayoum,فندق ومطعم البرج,2159,2,0,1,9.1,6.0,Fayoum,21.2,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,Casa Byoum jungle,2372,2,0,1,5.5,2.0,Fayoum,0.8,4.0,Hotel,One-Bedroom Chalet,No,Not Specified,Not Available,2026-05-09
+Fayoum,Dar nour tunis fayoum,4935,2,0,1,8.0,1.0,Fayoum,35.4,4.0,Villa,Two-Bedroom Villa,No,Not Specified,Not Available,2026-05-09
+Fayoum,Aziz Villa,3321,2,0,1,7.2,5.0,Fayoum,37.8,3.0,Villa,Two-Bedroom Villa,No,Not Specified,Not Available,2026-05-09
+Fayoum,Nature house,3321,2,0,1,10.0,1.0,Fayoum,34.9,4.0,Hotel,One-Bedroom Chalet,No,Not Specified,Not Available,2026-05-09
+Fayoum,Azzam Guest House 1 families only,2465,2,0,1,8.6,151.0,Fayoum,1.6,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,Safari egy,5272,2,0,1,8.6,151.0,Fayoum,20.5,4.0,Hotel,Double Room,Yes,Not Specified,Not Available,2026-05-09
+Fayoum,Iteru inn villa,22142,2,0,1,8.6,151.0,Fayoum,36.2,3.0,Villa,Villa with Private Pool,No,Not Specified,Not Available,2026-05-09
+Fayoum,Villa on Qarun lake beach elfayoum,3321,2,0,1,1.0,1.0,Fayoum,37.8,4.0,Villa,Villa with Garden View,No,Not Specified,Not Available,2026-05-09
+Fayoum,الفيوم,28469,2,0,1,8.6,151.0,Fayoum,0.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,المسلة شقة فندقية - Obelisk Hotel Apartment,2372,2,0,1,9.0,1.0,Mudīrīyah,1.6,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Fayoum,الفيروز شقة فندقية,3748,2,0,1,8.6,151.0,Mudīrīyah,2.5,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,Montaza,712,2,0,1,1.0,1.0,‘Izbat Muḩmmad Khamīs az Zamlūţī,3.4,4.0,Hotel,Triple Room,No,Not Specified,Not Available,2026-05-09
+Fayoum,الفريده شقة فندقية,9490,2,0,1,8.6,151.0,Mudīrīyah,2.9,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,فندق فرايدي,2214,2,0,1,8.6,151.0,‘Ezbet Sa‘dî Mugâwir,18.7,3.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Fayoum,Fayoum Hotel,3163,2,0,1,7.0,344.0,‘Ezbet Sa‘dî Mugâwir,21.0,4.0,Hotel,Double Room,No,Breakfast included,Not Available,2026-05-09
+Fayoum,الضيافة,1125,2,0,1,9.0,2.0,Shakshuk,21.1,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Fayoum,Holiday Inn fayoum,2161,2,0,1,7.8,5.0,Kafr Maḩfūz̧,21.9,4.0,Inn,Deluxe Double or Twin Room with City View,No,Not Specified,Not Available,2026-05-09
+Fayoum,شقق وشليهات رشيد علي ضفاف بحيره قارون,1281,2,0,1,5.3,3.0,Shakshuk,21.1,2.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,مون لايت Moon Light Villa,8114,2,0,1,8.1,24.0,‘Ezbet Sa‘dî Mugâwir,20.7,4.0,Villa,Three-Bedroom Villa,No,Not Specified,Not Available,2026-05-09
+Fayoum,شاليهات البرج,2610,2,0,1,8.6,151.0,Shakshuk,21.3,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Fayoum,شاليهات البرج,2610,2,0,1,8.6,151.0,Shakshuk,21.2,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Ain Sokhna,Stella Di Mare Grand Hotel,4936,2,0,1,8.4,5166.0,Ain Sokhna,4.6,5.0,Hotel,Standard Room with Garden View,No,Breakfast included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Ain Sokhna,Porto Sokhna Resort,4100,2,0,1,8.6,8.0,Ain Sokhna,25.3,5.0,Resort,Chalet,No,Not Specified,Not Available,2026-05-09
+Ain Sokhna,Porto Elsokhna pyramids Sea Veiw Amer Groub,1845,2,0,1,6.5,19.0,Ain Sokhna,25.1,5.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Free parking,2026-05-09
+Ain Sokhna,Mövenpick Resort El Sokhna,7009,2,0,1,8.0,1606.0,Ain Sokhna,10.1,5.0,Resort,Deluxe Twin Room with Garden View,No,Breakfast & dinner included,"Free parking, Spa, Bar",2026-05-09
+Ain Sokhna,Stella Sea Club Hotel,4269,2,0,1,8.3,2813.0,Ain Sokhna,4.8,4.0,Hotel,Standard Room with Garden View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Tanoak Resort,7011,2,0,1,8.0,2695.0,Ain Sokhna,10.7,5.0,Resort,Superior Double Room,Yes,Breakfast & dinner included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Ain Sokhna,Kefi Palmera Beach Resort El Sokhna - Family Only,3559,2,0,1,8.2,2338.0,Ain Sokhna,15.9,3.0,Resort,Standard Double or Twin Room,No,Breakfast & dinner included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,The G Einbay Golf Resort,6527,2,0,1,8.8,824.0,Ain Sokhna,11.7,5.0,Resort,Standard Twin Room,No,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Ain Sokhna,Regina Resort El Sokhna,1850,2,0,1,7.1,744.0,Ain Sokhna,57.9,4.0,Resort,Double or Twin Room,No,Breakfast & dinner included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Ain Sokhna 'Cosmopolitan',4021,2,0,1,9.6,65.0,Ain Sokhna,4.5,4.0,Hotel,Double Room with Balcony,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Ain Sokhna,Porto Sokhna Pyramids for Families Vip,3585,2,0,1,10.0,3.0,Ain Sokhna,25.2,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Ain Sokhna,Tolip Resort El Galala Majestic,6590,2,0,1,7.7,4808.0,Ain Sokhna,19.4,5.0,Resort,Classic Room (Mountain View) Egyptian and Resident Only,No,Breakfast & dinner included,"Hot tub/Jacuzzi, Free parking, Spa",2026-05-09
+Ain Sokhna,"Family-Friendly Chalet at Piacera, Ain Sokhna",6938,2,0,1,9.4,10.0,Ain Sokhna,45.8,3.0,Apartment,Three-Bedroom Apartment,No,Not Specified,"Free parking, Restaurant",2026-05-09
+Ain Sokhna,Hotel porto sokhna,3682,2,0,1,6.0,4.0,Ain Sokhna,25.1,5.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Hot tub/Jacuzzi, Bar, 24-hour front desk",2026-05-09
+Ain Sokhna,3-Brs Beachside Modern chalet Seaview & 3min walking l BBQ,5430,2,0,1,7.2,7.0,Ain Sokhna,11.1,3.0,Hotel,Three-Bedroom Chalet,No,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Ain Sokhna,Dome Marina Hotel & Resort Ain Sokhna Managed By Al Rahala,4349,2,0,1,6.7,268.0,Ain Sokhna,26.0,4.0,Resort,Standard Double or Twin Room,Yes,Breakfast & dinner included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Telal breeze villa-family only,10612,2,0,1,9.1,33.0,Ain Sokhna,32.6,4.0,Villa,Villa,No,Not Specified,"Bar, Restaurant",2026-05-09
+Ain Sokhna,villa 36 mountain view sokhna 1 Families only 36ماونتن فيو السخنه فيلا فاخره للعائلات فقط,16806,2,0,1,9.4,6.0,Ain Sokhna,57.8,5.0,Villa,Standard Villa,No,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,JAZ Little Venice Golf Resort,7061,2,0,1,8.3,1464.0,Ain Sokhna,10.8,5.0,Resort,Superior Room,Yes,Breakfast & dinner included,"Heated pool, Free parking, Bar",2026-05-09
+Ain Sokhna,Stella Golf Hotel,5396,2,0,1,8.6,569.0,Ain Sokhna,4.3,5.0,Resort,Double Room (Resort View),Yes,Breakfast & dinner included,"Heated pool, Free parking, Bar",2026-05-09
+Ain Sokhna,Marina Wadi Degla Hotel,5209,2,0,1,8.2,885.0,Ain Sokhna,10.9,3.0,Inn,Standard Double Room,Yes,Breakfast & dinner included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Al Masa Hotel El Sokhna,8896,2,0,1,8.4,1742.0,Ain Sokhna,5.0,5.0,Inn,Superior Double or Twin Room,No,Breakfast & dinner included,"Free parking, Restaurant, Free Wifi",2026-05-09
+Ain Sokhna,Cancun Sokhna Resort & Villas,6116,2,0,1,9.0,4241.0,Ain Sokhna,46.3,4.0,Resort,Standard Twin Room,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Ain Sokhna,Blumar El Dome Hotel,4732,2,0,1,8.8,1969.0,Ain Sokhna,27.0,4.0,Hotel,Double or Twin Room with Pool View,Yes,Breakfast included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Tolip Resort El Galala Hills,6289,2,0,1,7.7,2497.0,Ain Sokhna,19.1,5.0,Resort,Superior Room King or Twin Bed (Egyptians and Foreigner Resident),No,Breakfast & dinner included,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Ain Sokhna,"Porto Sokhna Towers, Red Sea",2989,2,0,1,6.0,11.0,Ain Sokhna,25.1,5.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,Yes,Not Specified,"Hot tub/Jacuzzi, Free Wifi, 24-hour front desk",2026-05-09
+Ain Sokhna,Miral Resort,5272,2,0,1,7.4,84.0,Ain Sokhna,41.7,4.0,Resort,Standard King Room,Yes,Breakfast & dinner included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Tolip Resort El Galala Heights,4618,2,0,1,7.0,757.0,Ain Sokhna,22.0,5.0,Resort,Standard Room Pool View,No,Breakfast & dinner included,"Heated pool, Free parking, Bar",2026-05-09
+Ain Sokhna,Porto Sokhna Luxury Units,2631,2,0,1,8.1,13.0,Ain Sokhna,25.2,4.0,Apartment,Apartment with Sea View,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Spa",2026-05-09
+Ain Sokhna,Coral Sea Beach and Aqua Park,7592,2,0,1,8.9,1893.0,Ain Sokhna,53.8,4.0,Inn,Standard Double Room - Egyptians Only,Yes,Breakfast & dinner included,"Heated pool, Free parking, Spa",2026-05-09
+Ain Sokhna,chalets in Fanar De Luna شاليهات فنار دي لونا,1771,2,0,1,5.2,4.0,Ain Sokhna,44.9,4.0,Hotel,Double Room,Yes,Not Specified,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Porto EL-Sokhna chalet VIP sea view,2900,2,0,1,5.5,2.0,Ain Sokhna,25.2,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Free parking,2026-05-09
+Ain Sokhna,Three-Bedroom Apartment at Louly Beach Resort,3559,2,0,1,7.5,41.0,Ain Sokhna,10.5,3.0,Resort,Three-Bedroom Chalet,Yes,Not Specified,Free parking,2026-05-09
+Ain Sokhna,Porto Sokhna Pyramids sae view,3796,2,0,1,7.0,1.0,Ain Sokhna,25.2,4.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,Yes,Not Specified,"Free parking, Free Wifi, 24-hour front desk",2026-05-09
+Ain Sokhna,Porto Sokhna Hotel & Spa,5646,2,0,1,8.3,794.0,Ain Sokhna,25.2,4.0,Hotel,Deluxe Double or Twin Room with Pool View,No,Breakfast included,"Restaurant, Free Wifi, 24-hour front desk",2026-05-09
+Ain Sokhna,Porto sokhna rental,3037,2,0,1,7.7,19.0,Ain Sokhna,25.0,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Free parking, Spa, Bar",2026-05-09
+Ain Sokhna,Eastern El-Galala Aquapark Ain Sokhna,6991,2,0,1,6.8,801.0,Ain Sokhna,20.3,5.0,Inn,Superior Double Room,No,Breakfast & dinner included,"Free parking, Bar, Restaurant",2026-05-09
+Ain Sokhna,Porto Elsokhna Pyramids Apartments sea view,3079,2,0,1,7.0,9.0,Ain Sokhna,25.0,5.0,Apartment,Two-Bedroom Apartment with Terrace and Sea View,Yes,Not Specified,"Bar, 24-hour front desk",2026-05-09
+Ain Sokhna,Swiss Inn Teda Hotel & Aqua Park,6194,2,0,1,7.0,1407.0,Ain Sokhna,5.0,4.0,Inn,Standard City View for Egyptians & Residents Only,Yes,Breakfast & dinner included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Ain Sokhna,Grand Ocean Sokhna Hotel & Resort,7803,2,0,1,9.1,882.0,Ain Sokhna,37.6,5.0,Resort,Standard Double Room,No,Breakfast included,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Ain Sokhna,Porto Royal Stay The View Hotel ViP,5694,2,0,1,7.3,15.0,Ain Sokhna,2.6,5.0,Apartment,Two-Bedroom Apartment with Terrace and Sea View,Yes,Not Specified,"Free parking, 24-hour front desk",2026-05-09
+Ain Sokhna,Hotel Porto Sokhna,5124,2,0,1,10.0,1.0,Ain Sokhna,25.2,5.0,Apartment,Two-Bedroom Apartment with Terrace and Sea View,Yes,Not Specified,"Free parking, Bar, 24-hour front desk",2026-05-09
+Ain Sokhna,Private chalte Palmera sokhna family,7554,2,0,1,8.4,49.0,Ain Sokhna,15.9,3.0,Hotel,Studio with Sea View,Yes,Not Specified,Bar,2026-05-09
+Ain Sokhna,Pyramids Porto sokhna Red Sea,1442,2,0,1,8.6,151.0,Ain Sokhna,25.1,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Heated pool, Restaurant, 24-hour front desk",2026-05-09
+Ain Sokhna,porto sokhna,2989,2,0,1,10.0,2.0,Ain Sokhna,25.2,4.0,Apartment,Two-Bedroom Apartment with Terrace and Sea View,Yes,Not Specified,"Free parking, Bar, 24-hour front desk",2026-05-09
+Ain Sokhna,La Sirena Hotel & Resort - Families only,2230,2,0,1,6.6,183.0,Ain Sokhna,47.1,3.0,Resort,Double Room,Yes,Not Specified,"Free parking, Bar",2026-05-09
+Ain Sokhna,ابراج بورتو السخنه,3992,2,0,1,8.6,151.0,Ain Sokhna,25.1,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Ain Sokhna,Retal View Resort El Sokhna Aqua Park,5272,2,0,1,6.0,941.0,Ain Sokhna,14.2,4.0,Resort,Deluxe Double Room Sea & Pool View,Yes,Breakfast & dinner included,"Free parking, Spa, Bar",2026-05-09
+Ain Sokhna,3BR Cozy SeaView Chalet in Ein Bay l AinSokhna,5020,2,0,1,8.6,151.0,Ain Sokhna,11.1,3.0,Hotel,Three-Bedroom Chalet,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Ain Sokhna,Elite Residence Aqua Park,8382,2,0,1,7.4,645.0,Ain Sokhna,12.0,4.0,Inn,Junior Suite with Garden View,Yes,Breakfast & dinner included,"Heated pool, Free parking, Spa",2026-05-09
+Ain Sokhna,SeaVille Beach Hotel by Elite Hotels & Resorts,11440,2,0,1,8.1,872.0,Ain Sokhna,12.5,4.0,Resort,Superior Double or Twin Room,Yes,Breakfast & dinner included,"Heated pool, Free parking, Bar",2026-05-09
+Ain Sokhna,شاليه vib منتجع هيفن هيلز بورتو السخنه عائلات مكيف بالكامل,2109,2,0,1,9.6,8.0,Ain Sokhna,25.9,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Free parking,2026-05-09
+Ain Sokhna,بورتو السخنه اكوا بارك,4341,2,0,1,5.1,11.0,Ain Sokhna,25.0,5.0,Hotel,Chalet,No,Not Specified,"Free parking, Spa, Restaurant",2026-05-09
+Ain Sokhna,Porto Sokhna Majestic,10544,2,0,1,7.2,33.0,Ain Sokhna,25.1,5.0,Hotel,Three-Bedroom Chalet,Yes,Not Specified,Restaurant,2026-05-09
+Ain Sokhna,Porto Elsokhna Pyramids Families,3480,2,0,1,7.6,7.0,Ain Sokhna,25.6,4.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,Yes,Not Specified,"Restaurant, 24-hour front desk",2026-05-09
+Ain Sokhna,Spacious Villa lake view 6 Bedrooms Einbay Resort,17643,2,0,1,6.1,11.0,Ain Sokhna,11.7,3.0,Resort,Villa with Garden View,No,Not Specified,"Free parking, Free Wifi",2026-05-09
+Ain Sokhna,Porto Sokhna Marina Towers sea view,3163,2,0,1,10.0,1.0,Ain Sokhna,25.1,4.0,Apartment,Two-Bedroom Apartment with Terrace and Sea View,Yes,Not Specified,"Bar, 24-hour front desk",2026-05-09
+Ain Sokhna,La Siesta Hotel Al Sokhna,4270,2,0,1,8.3,411.0,Ain Sokhna,24.1,4.0,Hotel,Superior Double or Twin Room with Sea View,No,Breakfast included,"Restaurant, Free Wifi",2026-05-09
+Ain Sokhna,PortoSokhna Hotel&Resort,4091,2,0,1,8.6,151.0,Ain Sokhna,25.1,5.0,Resort,Two-Bedroom Apartment,Yes,Not Specified,"Free parking, 24-hour front desk",2026-05-09
+Ain Sokhna,Porto Sokhna Grand Hotel,2799,2,0,1,8.6,151.0,Ain Sokhna,25.2,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,"Hot tub/Jacuzzi, Heated pool, Free parking",2026-05-09
+Ain Sokhna,Porto sokhna pyramids,4218,2,0,1,8.6,151.0,Ain Sokhna,25.0,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Hot tub/Jacuzzi,2026-05-09
+Ain Sokhna,2BR Sea View Chalet Porto Ain Sokhna,4513,2,0,1,6.7,14.0,Ain Sokhna,25.0,5.0,Apartment,Two-Bedroom Apartment with Terrace and Sea View,Yes,Not Specified,"Heated pool, Spa, Bar",2026-05-09
+Ain Sokhna,Porto Sokhna Pyramids Hotel,2429,2,0,1,7.0,6.0,Ain Sokhna,25.1,5.0,Apartment,Apartment with Sea View,Yes,Not Specified,"Hot tub/Jacuzzi, Free Wifi, 24-hour front desk",2026-05-09
+Ain Sokhna,La Sirena Ain Sokhna Sea View Resort,4033,2,0,1,1.0,1.0,Ain Sokhna,14.9,4.0,Resort,Two-Bedroom Apartment with Pool View,Yes,Not Specified,"Free parking, Bar, Free Wifi",2026-05-09
+Ain Sokhna,Viva Coast Resort - El Galala - El Sokhna,4270,2,0,1,8.1,86.0,Ain Sokhna,21.2,4.0,Resort,Deluxe Double Room with Balcony and Sea View,No,Not Specified,"Free parking, Bar, 24-hour front desk",2026-05-09
+Ain Sokhna,قرية بيلاجيو العين السخنه للعائلات فقط اسرة,2109,2,0,1,8.6,151.0,Ain Sokhna,55.8,4.0,Hotel,Two-Bedroom Chalet,Yes,Not Specified,"Free parking, Bar",2026-05-09
+Ain Sokhna,Fanar Hotel,5167,2,0,1,7.6,291.0,Ain Sokhna,44.7,3.0,Hotel,Twin Room with Sea View,No,Not Specified,"Free parking, Restaurant, 24-hour front desk",2026-05-09
+Ain Sokhna,شاليه مميز يطل عالبسين والبحر للعائلات فقط اسره,1518,2,0,1,7.8,4.0,Ain Sokhna,24.0,4.0,Hotel,Two-Bedroom Chalet,No,Not Specified,"Hot tub/Jacuzzi, Free parking",2026-05-09
+Ain Sokhna,Porto Sokhna pyramids Family Only,7022,2,0,1,9.4,11.0,Ain Sokhna,25.8,5.0,Hotel,Two-Bedroom Chalet,Yes,Not Specified,"Hot tub/Jacuzzi, Free parking, Restaurant",2026-05-09
+Ain Sokhna,porto sokhna,1898,2,0,1,8.6,151.0,Ain Sokhna,25.1,4.0,Hotel,Quadruple Room with Shared Bathroom,No,Not Specified,"Hot tub/Jacuzzi, 24-hour front desk",2026-05-09
+Ain Sokhna,Boho sokhna,3100,2,0,1,9.5,2.0,Ain Sokhna,43.9,4.0,Hotel,One-Bedroom Chalet,No,Not Specified,"Hot tub/Jacuzzi, Free parking, Restaurant",2026-05-09
+Ain Sokhna,شاليه في بورتو السخنه منتجع Chalet Porto el sokhna Heaven hills عائلات فقط H,1951,2,0,1,8.6,16.0,Ain Sokhna,25.9,3.0,Hotel,One-Bedroom Chalet,Yes,Not Specified,"Free parking, 24-hour front desk",2026-05-09
+Ain Sokhna,Porto south beach Resort hotel - BB,3416,2,0,1,8.5,2.0,Ain Sokhna,39.4,4.0,Resort,Double Room with Pool View,No,Breakfast included,"Free parking, Spa, Bar",2026-05-09
+Ain Sokhna,Luxury Azha Ain Sokhna Villa - Pool & Garden Views,10544,2,0,1,8.6,151.0,Ain Sokhna,10.4,3.0,Villa,Villa with Garden View,No,Not Specified,"Free parking, Restaurant, Free Wifi",2026-05-09
+Ain Sokhna,It has a very good looking view for sea and pool,5272,2,0,1,8.0,1.0,Ain Sokhna,40.7,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Free parking,2026-05-09
+El Alamein,Marassi Boutique Hotel-Marina 2,4510,2,0,1,9.0,294.0,"Sidi Abd El-Rahman, El Alamein",23.6,3.0,Hotel,Deluxe Marassi View,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Al Alamein Hotel,20202,2,0,1,9.2,1727.0,"Sidi Abd El-Rahman, El Alamein",24.5,5.0,Hotel,Superior Garden View,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Azur One Eleven Hotel Alamein,5656,2,0,1,8.5,607.0,El Alamein,8.4,5.0,Hotel,Azur Suite Pool View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Address Beach Resort Marassi,11683,2,0,1,9.0,528.0,"Sidi Abd El-Rahman, El Alamein",25.0,5.0,Resort,Superior Room Marassi View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Rixos Premium Alamein,16512,2,0,1,8.8,2566.0,El Alamein,3.0,5.0,Hotel,Deluxe Room Twin Beds,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Palma Bay Rotana Resort,11598,2,0,1,8.9,763.0,"Marina El Alamein, El Alamein",3.1,4.0,Resort,Marina City View Room - King Bed,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Marassi Boutique Hotel-Blanca,5882,2,0,1,8.9,248.0,"Sidi Abd El-Rahman, El Alamein",25.9,3.0,Hotel,Premier Room Partial Lagoon View,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Address Marassi Golf Resort,11113,2,0,1,9.5,487.0,"Sidi Abd El-Rahman, El Alamein",24.5,5.0,Resort,Deluxe Room,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Hotelux La Playa Alamein,6590,2,0,1,7.8,835.0,"Marina El Alamein, El Alamein",6.6,4.0,Hotel,Standard Double or Twin Room with Lagoon View,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Vida Marina Resort Marassi,10710,2,0,1,9.2,401.0,"Sidi Abd El-Rahman, El Alamein",23.4,4.0,Resort,Deluxe - Garden View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Palace Beach Resort,12981,2,0,1,9.7,59.0,"Sidi Abd El-Rahman, El Alamein",26.7,5.0,Resort,Premier Room Sea View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Ghazala Resort and SPA,14709,2,0,1,8.8,82.0,"Sidi Abd El-Rahman, El Alamein",41.3,5.0,Resort,Superior Double or Twin Room with Side Sea View,No,All-inclusive,Not Available,2026-05-09
+El Alamein,Porto Marina Hotel & Spa Al Alamein,7165,2,0,1,8.3,2073.0,"Marina El Alamein, El Alamein",4.8,5.0,Hotel,Double or Twin Room with Pool View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,IOS Village & Hotels,6722,2,0,1,8.3,54.0,"Sidi Abd El-Rahman, El Alamein",21.8,3.0,Villa,Deluxe King Room,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Marassi Boutique Hotel-Marina 1,6490,2,0,1,8.5,222.0,"Sidi Abd El-Rahman, El Alamein",23.8,3.0,Hotel,Superior Lake view,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Luxury chalet in Porto Golf for rent,3427,2,0,1,8.9,14.0,"Marina El Alamein, El Alamein",2.3,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Marseilia Beach 4 El Alamein - For families only,8417,2,0,1,9.6,9.0,"Sidi Abd El-Rahman, El Alamein",20.1,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Casa Cook North Coast - Adults Only,9276,2,0,1,8.4,184.0,"Sidi Abd El-Rahman, El Alamein",33.4,5.0,Hotel,Double or Twin Room with Pool View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Tolip North Coast Hotel,5910,2,0,1,8.8,2414.0,El Alamein,22.6,5.0,Inn,Room Assigned on Arrival,No,Breakfast & dinner included,Not Available,2026-05-09
+El Alamein,Porto marina كاش,4218,2,0,1,5.0,2.0,"Marina El Alamein, El Alamein",4.9,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Porto Golf Marina Resort New Alamein North Coast,4321,2,0,1,9.1,15.0,"Marina El Alamein, El Alamein",3.7,3.0,Resort,Family Suite with Balcony,No,Not Specified,Not Available,2026-05-09
+El Alamein,Luxury Apartment in Down Town - New Alamein,8643,2,0,1,8.6,14.0,El Alamein,4.8,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Modern Hotel-Style Apartment,8667,2,0,1,10.0,3.0,El Alamein,5.8,3.0,Apartment,Two-Bedroom Apartment with Garden View,No,Not Specified,Not Available,2026-05-09
+El Alamein,Stella Heights,6263,2,0,1,8.6,151.0,"Marina El Alamein, El Alamein",1.0,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,"Patio suite, Porto marina",8751,2,0,1,9.4,17.0,El Alamein,0.8,4.0,Apartment,King Suite with Pool View,No,Not Specified,Not Available,2026-05-09
+El Alamein,nice furnished apartment at porto golf,3113,2,0,1,8.6,151.0,"Marina El Alamein, El Alamein",3.4,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Marina Resort New Alamein By Seven Seasons,19676,2,0,1,8.6,59.0,"Marina El Alamein, El Alamein",1.9,4.0,Resort,Superior Chalet,No,Not Specified,Not Available,2026-05-09
+El Alamein,فيلا مميزه جدا في الساحل الشمالي ستيلا هايتس Stella Heights - Sidi Abd El-Rahman villa type M,17941,2,0,1,9.3,48.0,"Sidi Abd El-Rahman, El Alamein",28.9,4.0,Villa,Three-Bedroom Villa,No,Not Specified,Not Available,2026-05-09
+El Alamein,The G Hotel Seashell,11041,2,0,1,7.9,557.0,"Sidi Abd El-Rahman, El Alamein",31.0,5.0,Hotel,Deluxe Standard Room – Twin Bed,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,العالمين للألعاب المائيه,7117,2,0,1,10.0,2.0,El Alamein,26.8,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Gewan Palace New Alamein,16343,2,0,1,9.0,370.0,El Alamein,9.1,5.0,Hotel,Standard Room,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,Mirage Hotel Sidi Abd El Rahman,8584,2,0,1,8.5,554.0,El Alamein,17.3,4.0,Hotel,Standard One-Bedroom Chalet with Sea View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Porto marina,3321,2,0,1,1.0,1.0,"Marina El Alamein, El Alamein",5.0,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Golf Porto marina,5272,2,0,1,7.3,16.0,"Marina El Alamein, El Alamein",2.8,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,LUNA Residence Porto Golf Marina Sia Lagoon 2 Bedroom Challet with Garden Families only,3559,2,0,1,7.0,31.0,El Alamein,2.4,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Modern family stay Near Marina and El Alamein Egyptians ONLYشقة غرفتين بغرفة مكيفه الساحل الشمالي الكيلو 77دقايق من العلمين و مارينا,2583,2,0,1,8.9,9.0,El Alamein,27.2,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Lazorde bay Sidi Abd El Rahman لازوردى باى apartment,5694,2,0,1,7.3,27.0,"Sidi Abd El-Rahman, El Alamein",17.9,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,3 bedroom chalet in Zahra - Sidi Abdelrahman,6833,2,0,1,8.6,151.0,El Alamein,18.4,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Le Beau Site Chalet,3037,2,0,1,7.9,35.0,El Alamein,15.1,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,"North Coast Chalet , شاليه الساحل الشمالي",4081,2,0,1,7.6,7.0,El Alamein,22.1,4.0,Hotel,Three-Bedroom Chalet,No,Not Specified,Not Available,2026-05-09
+El Alamein,AQUA View resort,2017,2,0,1,9.3,11.0,El Alamein,13.2,4.0,Resort,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Blumar North Coast,8699,2,0,1,7.1,8.0,"Sidi Abd El-Rahman, El Alamein",32.7,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,شاليه مكيف بورتو ريزيدانس,3630,2,0,1,7.2,12.0,El Alamein,4.0,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Apartment at Marassi North Coast مراسى الساحل الشمالى,22538,2,0,1,9.8,9.0,"Sidi Abd El-Rahman, El Alamein",26.0,4.0,Apartment,Three-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,"Two-Bedroom Apartment with Sea View - Porto Marina North Cost, Coastal Panorama",11862,2,0,1,7.2,12.0,"Marina El Alamein, El Alamein",4.9,3.0,Apartment,Two-Bedroom Apartment with Sea View,No,Not Specified,Not Available,2026-05-09
+El Alamein,Villa Marina,16027,2,0,1,8.2,5.0,"Marina El Alamein, El Alamein",2.1,4.0,Villa,Two-Bedroom Villa,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,"Marassi, Luxury Suite in Address Beach resort! service apartment",23724,2,0,1,8.0,6.0,"Sidi Abd El-Rahman, El Alamein",23.5,4.0,Resort,Suite with Sea View,No,Not Specified,Not Available,2026-05-09
+El Alamein,مراسي,12336,2,0,1,8.6,151.0,"Sidi Abd El-Rahman, El Alamein",25.0,4.0,Hotel,Two-Bedroom Chalet,No,Not Specified,Not Available,2026-05-09
+El Alamein,الساحل الشمالي قرية سانتوريني شاليه غرفة وريسبشن,1423,2,0,1,10.0,1.0,El Alamein,22.6,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,"CONCHA Beach Hotel, New Alamein",9490,2,0,1,9.0,106.0,El Alamein,6.5,5.0,Hotel,Standard Bungalow,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,الجناح الملكي بالعالمين شامله الأكوا بارك مجانا,3226,2,0,1,8.2,41.0,El Alamein,26.6,4.0,Apartment,One-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Downtown New Alamein 3 Beds - Seaview and Alamein Towers,7592,2,0,1,8.6,151.0,El Alamein,4.8,3.0,Apartment,Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Amazing view apartment in Golf Porto Marina with marina access,3918,2,0,1,7.8,37.0,El Alamein,1.6,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Lily's motel,7414,2,0,1,8.1,28.0,"Sidi Abd El-Rahman, El Alamein",21.6,3.0,Motel,Double Room with Private Bathroom,Yes,Breakfast included,Not Available,2026-05-09
+El Alamein,"Rhactus Hotel, New Alamein",8865,2,0,1,8.3,169.0,El Alamein,1.9,4.0,Hotel,Deluxe Twin Bed,No,Breakfast included,Not Available,2026-05-09
+El Alamein,Golden Lake Marina Hotel,4481,2,0,1,8.1,616.0,"Marina El Alamein, El Alamein",2.8,4.0,Hotel,Double Room with Garden View,No,Breakfast included,Not Available,2026-05-09
+El Alamein,sea view apartment in Porto Marina hotel tower,7683,2,0,1,8.8,49.0,"Marina El Alamein, El Alamein",4.2,4.0,Apartment,Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Studio in marassi,13180,2,0,1,8.6,151.0,"Sidi Abd El-Rahman, El Alamein",23.9,3.0,Apartment,Studio Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Hotel Apartments At Address Marassi Golf Resort,7381,2,0,1,7.5,67.0,"Sidi Abd El-Rahman, El Alamein",25.0,4.0,Resort,Studio,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,شاليه vip مارينا 5 الساحل الشمالي العلمين,10544,2,0,1,8.5,4.0,"Marina El Alamein, El Alamein",2.1,3.0,Villa,One-Bedroom Villa,No,Not Specified,Not Available,2026-05-09
+El Alamein,"ابراج العلمين والداون تاون فيو البحر واللاجون Tower, New Alamein",9490,2,0,1,8.3,3.0,El Alamein,3.7,3.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Amer group,6590,2,0,1,8.6,151.0,"Marina El Alamein, El Alamein",2.4,4.0,Hotel,Double Room,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Apartment at El Down Town New El Alamein,8643,2,0,1,7.4,51.0,El Alamein,4.7,3.0,Apartment,Two-Bedroom Apartment with Balcony and Sea View,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Santorini North Coast Resort is not for Egyptian singless,1898,2,0,1,8.6,151.0,El Alamein,22.6,4.0,Resort,Queen Room,No,Not Specified,Not Available,2026-05-09
+El Alamein,امواج شاليه فندقي Amwaj north coast 2 bedroom,10755,2,0,1,9.3,14.0,"Sidi Abd El-Rahman, El Alamein",31.0,3.0,Apartment,Two-Bedroom Apartment with Balcony,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Santorini North Coast Resort is not for Egyptian singles,1329,2,0,1,8.6,151.0,El Alamein,22.6,4.0,Resort,Studio,No,Not Specified,Not Available,2026-05-09
+El Alamein,2 bedrooms apartment in Porto marina,6959,2,0,1,6.8,13.0,"Marina El Alamein, El Alamein",4.9,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,"Comfort Cozy Corner - Luxury Apt New Alamein -, Marina , Sahel - شقة فاخرة العلمين الجديدة - مارينا,الساحل",9033,2,0,1,10.0,2.0,El Alamein,4.8,4.0,Apartment,Three-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+El Alamein,Golden Sweet house Latina,9015,2,0,1,8.6,151.0,El Alamein,6.1,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,بورتو مارينا,8303,2,0,1,8.6,151.0,"Marina El Alamein, El Alamein",4.9,4.0,Apartment,Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Luxury sea View Apartment-North Edge Tower 7B,6203,2,0,1,8.6,151.0,El Alamein,3.5,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Sia Lagoon,2391,2,0,1,8.6,151.0,El Alamein,2.6,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+El Alamein,Alex,1898,2,0,1,8.6,151.0,El Alamein,1.7,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Sohag,Al Fanar Azur Hotel,3050,2,0,1,8.2,223.0,Sūhāj,4.7,3.0,Hotel,Double or Twin Room,Yes,Breakfast included,Not Available,2026-05-09
+Sohag,VIP hotel & café,1281,2,0,1,6.3,3.0,Qilfāw,4.7,4.0,Hotel,Double Room with Sea View,No,Not Specified,Not Available,2026-05-09
+Sohag,Abo Elwafa Hotel,1075,2,0,1,7.1,140.0,Sūhāj,4.7,3.0,Hotel,Double Room with Private Bathroom,Yes,Breakfast included,Not Available,2026-05-09
+Sohag,فندق ميريت امون سوهاج,2372,2,0,1,7.3,6.0,Jazīrat Maḩrūs,4.7,4.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Sohag,Hotel G,1054,2,0,1,8.6,151.0,Sūhāj,4.7,3.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Sohag,Al Amir Palace Hotel,1054,2,0,1,5.3,87.0,Sūhāj,4.7,3.0,Hotel,Deluxe Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Sohag,Families only,869,2,0,1,8.6,151.0,Al ‘Izbah wa al ‘Arab,4.7,4.0,Apartment,Three-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Sohag,Sohag luxury apartment,1318,2,0,1,10.0,1.0,Awlād Gharīb,4.7,3.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Assyut,فندق أجياد Agyad Hotel,2109,2,0,1,9.1,271.0,Asyut,0.25,4.0,Hotel,Double Room,Yes,Not Specified,Not Available,2026-05-09
+Assyut,Grand Hotel - فندق جراند أوتيل,1898,2,0,1,5.6,5.0,Asyut,0.2,4.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Assyut,Badr Hotel Assiut,3751,2,0,1,8.0,55.0,Asyut,0.15,3.0,Hotel,Double Room,No,Breakfast included,Not Available,2026-05-09
+Assyut,Jewel Assiut Hotel,2320,2,0,1,6.4,137.0,Asyut,2.7,4.0,Hotel,Double Room with Pool View (Egyptians Only),No,Breakfast included,Not Available,2026-05-09
+Assyut,Assiut Cement Hotel,6405,2,0,1,7.9,92.0,Asyut,14.8,3.0,Hotel,One-Bedroom Chalet,No,Breakfast included,Not Available,2026-05-09
+Assyut,Assiutel,3427,2,0,1,7.4,46.0,Asyut,1.2,3.0,Hotel,Deluxe Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Assyut,فندق نيو الحسين - New Alhussien Hotel,1318,2,0,1,7.4,13.0,Asyut,0.5,3.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Assyut,فندق الحسين السياحي,1160,2,0,1,6.7,22.0,Asyut,0.25,3.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Assyut,Asyut Cozy Nile view apartment,2372,2,0,1,10.0,1.0,Asyut,3.1,4.0,Apartment,Three-Bedroom Apartment with Sea View,No,Not Specified,Not Available,2026-05-09
+Assyut,Assuit ultra modern apartment,2017,2,0,1,7.6,6.0,Asyut,2.7,4.0,Apartment,Two-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Assyut,Rayan Apartment,3005,2,0,1,8.6,151.0,Asyut,1.5,4.0,Apartment,Three-Bedroom Apartment,Yes,Not Specified,Not Available,2026-05-09
+Assyut,Luxury Apartment in Zamalek,4745,2,0,1,5.0,2.0,Al Walīdīyah,2.0,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Al Minya,Savoy Hotel ELMinya,3070,2,0,1,9.3,296.0,Minya,0.3,3.0,Hotel,Deluxe Double or Twin Room with City View,Yes,Breakfast included,Not Available,2026-05-09
+Al Minya,Akhenaton Hotel,3585,2,0,1,7.9,39.0,Minya,0.35,4.0,Hotel,Double Room,Yes,Breakfast included,Not Available,2026-05-09
+Al Minya,Omar El Khayam Al Minya Hotel,3585,2,0,1,9.3,58.0,Minya,0.25,4.0,Hotel,Deluxe Suite,No,Breakfast included,Not Available,2026-05-09
+Al Minya,Elminya Compound,2900,2,0,1,6.5,61.0,Minya,1.4,3.0,Hotel,Standard Single or Double Room,No,Breakfast included,Not Available,2026-05-09
+Al Minya,The Red Palm,1687,2,0,1,7.0,3.0,Minya,0.15,4.0,Hotel,Double Room,Yes,Not Specified,Not Available,2026-05-09
+Al Minya,Istanbul HOTEL Minya,2900,2,0,1,7.4,37.0,Minya,1.7,3.0,Hotel,Double Room,No,Breakfast included,Not Available,2026-05-09
+Al Minya,Village Room in the Countryside,1186,2,0,1,8.6,64.0,Minya,9.5,4.0,Villa,Triple Room with Bathroom,Yes,All-inclusive,Not Available,2026-05-09
+Al Minya,Apartment in Minya with archaeological tours,2119,2,0,1,7.0,4.0,Minya,3.2,3.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Al Minya,Furnished apartment in Minya with archaeological tours,2715,2,0,1,5.7,3.0,Minya,3.3,4.0,Apartment,Two-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
+Al Minya,Countryside House,3585,2,0,1,8.6,151.0,Minya,30.7,4.0,Hotel,Four-Bedroom Vacation Home,Yes,Breakfast included,Not Available,2026-05-09
+Al Minya,Grand Aton,4745,2,0,1,6.1,21.0,Al Ikhşāş,2.0,3.0,Hotel,Double or Twin Room with Partial Sea View,Yes,Breakfast included,Not Available,2026-05-09
+Al Minya,Holy Family Hotel,5124,2,0,1,8.5,32.0,Jabal aţ Ţayr,20.4,4.0,Hotel,Double Room with River View,No,Not Specified,Not Available,2026-05-09
+Al Minya,Mori apartment,4745,2,0,1,8.6,151.0,An Nu‘mānīyah,20.0,4.0,Apartment,One-Bedroom Apartment,No,Not Specified,Not Available,2026-05-09
